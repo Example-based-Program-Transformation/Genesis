@@ -1,0 +1,10 @@
+/SaeedMasoumi/FAB-Loading
+/AppliedEnergistics/Applied-Energistics-2
+/cloudfoundry/uaa
+/nomanr/WeekCalendar
+/aol/simple-react
+/chiemy/JellyViewPager
+/mcxiaoke/minicat
+/karussell/snacktory
+/komoot/photon
+/gugalor/citylist

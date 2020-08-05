@@ -1,0 +1,10 @@
+/Codecademy/EventHub
+/dreamhead/moco
+/ozodrukh/CircularReveal
+/NLPchina/elasticsearch-sql
+/recruit-lifestyle/WaveSwipeRefreshLayout
+/Jasig/cas
+/twitter/ambrose
+/grpc/grpc-java
+/killbill/killbill
+/apache/incubator-zeppelin

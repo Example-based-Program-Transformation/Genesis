@@ -1,0 +1,2 @@
+1
+core/src/main/java/org/springframework/cloud/Cloud.java 328 -1 1.0

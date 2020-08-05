@@ -1,0 +1,10 @@
+/appfuse/appfuse
+/mikiobraun/jblas
+/eclipse/jgit
+/databricks/reference-apps
+/apache/wicket
+/jhalterman/modelmapper
+/fafaldo/BlurZoomGallery
+/afrous/Cynthia
+/android-cjj/ComicReader
+/ArcBees/GWTP

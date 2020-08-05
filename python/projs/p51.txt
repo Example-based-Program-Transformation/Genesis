@@ -1,0 +1,10 @@
+/cglib/cglib
+/JCTools/JCTools
+/gwhalin/Memcached-Java-Client
+/yueban/DraggedViewPager
+/dcevm/dcevm
+/nicoulaj/idea-markdown
+/spring-guides/tut-spring-security-and-angular-js
+/Red5/red5-server
+/zhaozhentao/InboxLayout
+/shekhargulati/java8-the-missing-tutorial

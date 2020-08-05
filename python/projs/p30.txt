@@ -1,0 +1,10 @@
+/jmxtrans/jmxtrans
+/BuildCraft/BuildCraft
+/jitsi/jitsi
+/tjake/Solandra
+/checkstyle/checkstyle
+/liferay/liferay-portal
+/mattprecious/telescope
+/FasterXML/jackson-core
+/twotoasters/JazzyListView
+/linkedin/indextank-engine

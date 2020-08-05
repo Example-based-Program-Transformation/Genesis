@@ -1,0 +1,10 @@
+/Netflix/Hystrix
+/google/physical-web
+/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+/astuetz/PagerSlidingTabStrip
+/junit-team/junit
+/eclipse/vert.x
+/facebook/presto
+/nickbutcher/plaid
+/spring-projects/spring-boot
+/dropwizard/dropwizard

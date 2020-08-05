@@ -1,0 +1,10 @@
+/tobie/ua-parser
+/hanks-zyh/HTextView
+/saulmm/Material-Movies
+/Bukkit/Bukkit
+/hibernate/hibernate-orm
+/JetBrains/ideavim
+/square/javapoet
+/grails/grails-core
+/Netflix/eureka
+/robovm/robovm

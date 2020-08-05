@@ -1,0 +1,10 @@
+/pentaho/pentaho-kettle
+/cucumber/gherkin
+/nzakas/cssembed
+/idunnololz/AnimatedExpandableListView
+/yahoo/samoa
+/kingideayou/SlideBottomPanel
+/JetBrains/intellij-plugins
+/wwadge/bonecp
+/arpitkh96/AmazeFileManager
+/jfoenixadmin/JFoenix

@@ -1,0 +1,10 @@
+/fanfoudroid/fanfoudroid
+/yesidlazaro/BadgedImageview
+/myui/hivemall
+/zhaozhentao/BooheeScrollView
+/SpoutDev/Spout
+/fesh0r/fernflower
+/lightSky/InfiniteIndicator
+/kenglxn/QRGen
+/gabrielemariotti/colorpickercollection
+/openhab/openhab2-addons

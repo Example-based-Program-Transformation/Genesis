@@ -1,0 +1,10 @@
+/mpatric/mp3agic
+/aol/micro-server
+/skavanagh/EC2Box
+/lviggiano/owner
+/Nilhcem/FakeSMTP
+/jakob-grabner/Circle-Progress-View
+/spring-projects/spring-restdocs
+/consulo/consulo
+/richardradics/MVPAndroidBootstrap
+/apache/cordova-plugin-inappbrowser

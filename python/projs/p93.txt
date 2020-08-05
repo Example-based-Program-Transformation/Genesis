@@ -1,0 +1,10 @@
+/CloudStack-extras/CloudStack-archive
+/apache/curator
+/oyachai/HearthSim
+/rictic/code_swarm
+/peter-lawrey/Java-Thread-Affinity
+/sitemesh/sitemesh3
+/ios-driver/ios-driver
+/rdrobinson3/VolleyImageCacheExample
+/larsga/Duke
+/crittercism/dexmaker

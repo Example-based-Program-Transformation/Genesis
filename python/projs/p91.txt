@@ -1,0 +1,10 @@
+/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller
+/drewnoakes/metadata-extractor
+/googleglass/mirror-quickstart-java
+/android/platform_dalvik
+/boundlessgeo/GeoGig
+/banq/jdonframework
+/apache/ambari
+/cwensel/cascading
+/searls/jasmine-maven-plugin
+/AlanCheen/PracticeDemo

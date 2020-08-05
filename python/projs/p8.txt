@@ -1,0 +1,10 @@
+/ogaclejapan/SmartTabLayout
+/rzwitserloot/lombok
+/java-native-access/jna
+/google/auto
+/openhab/openhab
+/mybatis/mybatis-3
+/gocd/gocd
+/yui/yuicompressor
+/mockito/mockito
+/haifengl/smile

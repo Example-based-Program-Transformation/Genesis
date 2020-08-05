@@ -1,0 +1,10 @@
+/jOOQ/jOOL
+/sannies/mp4parser
+/ZhaoKaiQiang/JianDan
+/FluentLenium/FluentLenium
+/pac4j/pac4j
+/thymeleaf/thymeleaf
+/javaparser/javaparser
+/tananaev/traccar
+/xiprox/ErrorView
+/spring-projects/spring-social

@@ -1,0 +1,10 @@
+/M66B/XPrivacy
+/jersey/jersey
+/javaee-samples/javaee7-samples
+/notnoop/java-apns
+/cucumber/cucumber-jvm
+/spring-projects/spring-security-oauth
+/chewiebug/GCViewer
+/spotify/helios
+/watabou/pixel-dungeon
+/biezhi/blade

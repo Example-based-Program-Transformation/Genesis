@@ -1,0 +1,1 @@
+try {x += 1;z = ((java.util.ArrayList)(a)).hashCode();y += 1;} catch (java.lang.Exception __new_var) {return null;}

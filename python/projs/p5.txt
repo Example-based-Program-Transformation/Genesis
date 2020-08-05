@@ -1,0 +1,10 @@
+/swagger-api/swagger-core
+/gradle/gradle
+/scribejava/scribejava
+/JetBrains/kotlin
+/facebook/rebound
+/go-lang-plugin-org/go-lang-idea-plugin
+/google/guice
+/apache/storm
+/alibaba/druid
+/yahoo/anthelion

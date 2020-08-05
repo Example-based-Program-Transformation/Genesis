@@ -1,0 +1,10 @@
+/mxn21/SlidingCard
+/jboss-javassist/javassist
+/mvarnagiris/financius-public
+/crashub/crash
+/UnderwaterApps/overlap2d
+/Netflix/suro
+/liferay/liferay-plugins
+/google/gcm
+/stormzhang/SwipeRefreshLayoutDemo
+/alexo/wro4j

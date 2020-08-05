@@ -1,0 +1,10 @@
+/bitcoin-solutions/multibit
+/yahoo/oozie
+/matyb/java-koans
+/apache/cloudstack
+/adyliu/jafka
+/google/google-api-java-client
+/Vazkii/Botania
+/flyfei/CustomMenu
+/spring-projects/spring-data-examples
+/apache/giraph

@@ -1,0 +1,10 @@
+/albertlatacz/java-repl
+/android/platform_frameworks_support
+/killme2008/Metamorphosis
+/hamcrest/JavaHamcrest
+/real-logic/simple-binary-encoding
+/traex/CalendarListview
+/EsotericSoftware/kryonet
+/glyptodon/guacamole-client
+/Netflix/feign
+/alexvasilkov/GestureViews

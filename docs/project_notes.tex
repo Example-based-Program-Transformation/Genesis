@@ -1,0 +1,188 @@
+\documentclass{article}
+
+\usepackage{color}
+\usepackage{todonotes}
+
+\usepackage{datetime}
+\newdate{last-update-date}{13}{12}{2016}
+\date{\displaydate{last-update-date}}
+
+
+\title{Notes on Genesis Implementation}
+\author{Jos\'e Cambronero}
+
+\begin{document}
+\maketitle
+
+\newcommand{\unclear}[1]{{\color{red} ??? \textbf{#1}}}
+
+\begin{abstract}
+A set of notes regarding the implementation of Fan Long's Genesis project
+\end{abstract}
+
+These are my personal notes as I become familiar with Genesis. Any statement made here is subject to change. Any errors here
+are solely attributable to the author and in no way reflect upon the Genesis project.
+
+
+\section{Source code notes}
+We provide a simple overview of the source code, describing major packages/classes and general functionality. 
+
+
+\subsection{genesis.node}
+Building blocks for Genesis AST representation
+\begin{itemize}
+\item MyCtNode: Generic AST nodes used in Genesis, basically use reflection to create a single node type for every spoon node
+ 	\begin{itemize}
+     		\item Each node has children
+     		\item Nodes may also be a collection
+     		\item Has generic helper methods like checking if two trees are equal, getting parent, getting children etc
+	\end{itemize}	
+\item MyNodeSig: generic container for "spoon type" for statement represented by a MyCtNode instance
+\item MyNodeTrait:  handles additional leaf information for reflected tree, e.g. whether a leaf node is a UnaryOp etc
+\end{itemize}
+
+\subsection{genesis.schema}
+Contains code used to generalize the before/after AST trees (low-level)
+\begin{itemize}
+	\item SchemaAbstractor: contains before/after trees (MyCtNode), along with context information (insides: MyNodeSig),
+    and variable bindings. With this it can generalize a set of such information to a pre/post tree transformation (TransASTNode)
+    It uses dfs to construct both pre/post trees. It generalizes context information (insides) to the common super signature.
+	\begin{itemize}
+		\item SchemaAbstractor.generalize returns a TransformSchema
+	\end{itemize}
+	
+	\item TransformSchema: represents a single pre/post transformation with contextual information. Contains vistor pattern info
+  for tree transformation. Also contains utilities to specify a TransformSchema by "hand".
+
+	\item SchemaAdapter: API to apply a TransformSchema to an AST (see SchemaAdapter.applyTo), does some general checking related
+  to types
+
+	\item TransAST*: Defines AST representation of generalized AST used for transformations.
+	\item TransASTVisitor: Abstract visitor class for the generalized AST
+\end{itemize}
+
+\subsection{genesis.transform}
+Contains code for transformation when given source code representation. This seems to be a higher-level API for transformation, which delegates work to genesis.schema
+
+\begin{itemize}
+	\item ManualTransformRule: allows us to specify a transformation by hand
+	\item CodeTransform: wrapper around a TransformSchema with some meta information about what the schema can generate
+	\item CodeTransAbstractor: generalize the trees to TransformSchema instance and handles creation of generators for free generalized nodes
+	\item CodeTransAdapter: higher level wrapper around SchemaAdapter to apply to an AST
+\end{itemize}
+
+\subsection{genesis.generator}
+Holds different classes of generators for each type of node necessary. Each generator can estimate the cost
+of generating a subtree
+
+\begin{itemize}
+	\item CopyGenerator: Copies a node from a tree and generates that as the subtree, along with replacement of variables if necessary
+	\item EnumerateGenerator: seems to enumerate all possible subtrees for generation based on constraints
+	\item RefBound: holds scope information for a reference
+	\item ReferenceGenerator: handles the subclasses of CtReference, which have additional scope information linked to them
+	\item TraitGenerator: generates nodes for trait
+\end{itemize}
+
+
+\subsection{genesis.analysis}
+Set of analysis tools that seem mainly used in genesis.generator to correctly generate nodes and
+for correctly determining if nodes can replace one another in genesis.schema
+  
+\begin{itemize} 
+	\item StatementAnalyzer: collect statements in functions or in package
+	\item StaticAnalyzer: collect some type info, check if a variable reference is valid, return fields/variable/methods in scope,
+  check type info, etc
+	\item TypeHelper: help inferring type info, check type compatibility/equality
+\end{itemize}
+
+
+\subsection{genesis.learning}
+Code to learn transformations by generalizing over pairs of trees and using genetic programming to pick lower cost with high coverage
+
+\begin{itemize}
+	\item DecomposedCodePair: contains context possibilities for a before/after pair of trees
+	\item TreeDiffer: narrows down the differences between two trees
+	\item CodePairDecomposer: creates a list of DecomposedCodePairs, when given a pre and post AST. It first identifies the portion of the AST
+	that actually corresponds to the patch changes. It then expands and finds includes some of the surrounding area, for generalization purposes. Given
+	that it expands area etc it returns a list of these different pair options, rather than a single pair.
+	\item Main: the actual learning, uses a genetic algorithm to pick generalizations that cover examples and minimize cost for generators
+  used. Has various static classes for each round of learning. Each have some actual learning logic and then utilities for reading/writing
+  intermediate results. A lot of the code complexity here seems to come from multithreading.
+	\begin{itemize}
+		\item Round1Task: Generalize seems to be called with pairs of DecomposedCodePairs (i.e. we generalize over 2 befores and 2 afters), keeps
+  track of lowest cost and 2 indices to DecomposedCodePairs that created that lowest cost generalization.
+  		\item Round2Task: seems to get the results from Round1Task, and extend generalization to include yet another DecomposedCodePair. Again,
+      keeps lowest cost version.
+      		\item The remainder of the code seems to be for the genetic programming algorithm (e.g. MutateTask/CrossOverTask)
+	\end{itemize}
+\end{itemize}
+
+\subsection{genesis.space}
+Code managing the search space for candidate patches
+
+\begin{itemize}
+	\item genesis.space.par: handwritten transformations from PAR paper
+	\item SearchSpace: define the space of transformations that can be applied to generate a patch
+	\begin{itemize}
+		\item GenerationResult: keep track of patches generated by a particular transformation
+		\item applyTo: apply a search space of transformations to a before MyCtNode, collect those candidates that typecheck
+	\end{itemize}
+\end{itemize}
+
+\subsection{genesis.rewrite}
+Code for rewriting original source code to modified source code
+ 
+\begin{itemize} 
+	\item CodeRewritePass: (interface) rewriting interface that takes single tree and rewrites
+	\item CodePairRewritePass: (interface) rewriting interface that takes before and after tree and rewrites
+	\item CodePairRewriteWrapperPass: wraps a CodeRewritePass to apply to before and after trees.
+	\item LiteralRewritePass: rewrite before literal to after literal by adding 1 (if possible
+	\item VarDeclEliminationPass: replace a variable with an expression (VarDeclReplacer) and remove declarations, used to remove variables taht are only used once. Allows more normalized code for generalization.
+	\item CodeRewriter: take original source file, represent as tree, and rewrite tree by replacing original nodes with new nodes
+	\item CodeStyleNormalizationPass:  normalizes code, for example creates empty body for loops missing a body, adds then/else blocks as needed
+	\item CommutativityRewritePass: swap left and right operand for plus expressions
+	\item RewritePassManager: coordinates multiple passes, as needed. Takes 2 trees, finds difference between them. Takes all passes and incrementally applies them to the before/after snippets from the previous iteration. Writes out the before and after code strings to disk.
+\end{itemize}
+
+
+\subsection{genesis.repair}
+Applies rewrites, compiles, and validates that patched program correctly fixes test that exposed issue, and doesn't regress
+
+\begin{itemize}
+	\item genesis.repair.compiler: manages use of javac compiler (don't want to use build tools, as too slow otherwise)
+	\item genesis.repair.localization: localizes possible source code lines for error
+	\begin{itemize}
+		\item StackTraceDefectLocalization: one instance of a defect localizer, uses stack trace to identify "suspicious" lines in the source
+			\begin{itemize} 
+				\item returns a list of suspicious locations, ordered by suspiciousness
+			\end{itemize}
+		\item SuspiciousLocation: encodes information about a possible source code location that is an issue, the suspiciousness score is
+  currently set with a heuristic in StackTraceDefectLocalization
+  	\end{itemize}
+	\item genesis.repair.validation: validates that a patch fixes failed test case and doesn't regress
+	\begin{itemize}
+		\item Testcase, TestResult: contains information for a single test case and for the test result
+		\item TestcaseExecutor: runs test case and collects necessary information
+		\item TestingOracle: validate the patch, collect any failed cases
+	\end{itemize}
+\end{itemize}
+
+
+\subsection{genesis.corpus}
+Manages the corpus of collected patches for learning etc.
+
+\begin{itemize}
+	\item CodeCorpusDB: interacts with mysql database, to query genesis tables 
+	\item CodeCorpusDir: manages the directory with the actual code downloaded from github. Gets pairs of revisions and parses into ASTs
+	\item CorpusPatch, CorpusApp: classes to represent information for a patch/application
+	\item CorpusUtils: wrapper around parsing into Genesis AST
+\end{itemize}
+
+\subsection{genesis.utils}
+Some random utilities
+
+\subsection{genesis.infrastructure}
+General code for infrastructure (e.g. for building code etc)
+
+
+\end{document}

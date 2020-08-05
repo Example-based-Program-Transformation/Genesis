@@ -1,0 +1,10 @@
+/spring-projects/spring-data-rest
+/tito/2048
+/allwefantasy/ServiceFramework
+/bguerout/jongo
+/nuptboyzhb/TreeRecyclerView
+/7heaven/bitmapMesh
+/TUBB/SwipeMenuRecyclerView
+/scouter-project/scouter
+/magro/memcached-session-manager
+/spring-projects/greenhouse

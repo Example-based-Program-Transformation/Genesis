@@ -1,0 +1,2 @@
+1
+core/src/main/java/com/google/errorprone/bugpatterns/threadsafety/GuardedByBinder.java 185 -1

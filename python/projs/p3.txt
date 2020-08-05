@@ -1,0 +1,10 @@
+/android/platform_frameworks_base
+/florent37/MaterialViewPager
+/alibaba/fastjson
+/bazelbuild/bazel
+/LMAX-Exchange/disruptor
+/dropwizard/metrics
+/sparklemotion/nokogiri
+/claritylab/lucida
+/google/j2objc
+/Netflix/SimianArmy

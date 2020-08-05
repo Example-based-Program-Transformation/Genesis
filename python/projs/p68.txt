@@ -1,0 +1,10 @@
+/caoxinyu/RedisClient
+/wsieroci/audiorecognizer
+/OpenTSDB/asynchbase
+/kohsuke/args4j
+/nodebox/nodebox
+/linkedin/parseq
+/square/otto-intellij-plugin
+/restlet/restlet-framework-java
+/ganfra/MaterialSpinner
+/spring-projects/spring-social-samples

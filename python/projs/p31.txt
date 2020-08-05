@@ -1,0 +1,10 @@
+/electronicarts/orbit
+/facebookarchive/hadoop-20
+/chrisbanes/photup
+/pigshell/pigshell
+/ppamorim/Dragger
+/pahimar/Equivalent-Exchange-3
+/google/error-prone
+/wildabeast/BarcodeScanner
+/Netflix/exhibitor
+/FasterXML/jackson-databind

@@ -1,0 +1,10 @@
+/chenyangcun/MaterialDesignExample
+/infinitest/infinitest
+/searchbox-io/Jest
+/spring-projects/spring-hadoop
+/jayway/powermock
+/recruit-lifestyle/FloatingView
+/spring-projects/spring-data-book
+/SlimeKnights/TinkersConstruct
+/mybatis/spring
+/caelum/vraptor

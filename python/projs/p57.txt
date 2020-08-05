@@ -1,0 +1,10 @@
+/brucetoo/PickView
+/florent37/MaterialTextField
+/motianhuo/VCameraDemo
+/GlowstoneMC/Glowstone
+/spring-projects/spring-roo
+/infinispan/infinispan
+/plutext/docx4j
+/googlesamples/io2015-codelabs
+/cyrilmottier/Polaris
+/MarkoMilos/Paginate

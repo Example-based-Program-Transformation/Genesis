@@ -1,0 +1,10 @@
+/JodaOrg/joda-time
+/skylot/jadx
+/orfjackal/retrolambda
+/jankotek/mapdb
+/Wizcorp/phonegap-facebook-plugin
+/OpenTSDB/opentsdb
+/ChrisRM/material-theme-jetbrains
+/alibaba/jstorm
+/jeresig/processing-js
+/code4craft/webmagic

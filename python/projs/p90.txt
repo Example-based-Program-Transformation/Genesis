@@ -1,0 +1,10 @@
+/logstash/logstash-logback-encoder
+/haraldk/TwelveMonkeys
+/apache/httpclient
+/deeplearning4j/nd4j
+/RoaringBitmap/RoaringBitmap
+/drakeet/FingerTransparentView
+/blundell/QuickSand
+/johnlindquist/angularjs-plugin
+/gresrun/jesque
+/HaraldWalker/user-agent-utils

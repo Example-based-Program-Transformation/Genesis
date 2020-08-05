@@ -1,0 +1,10 @@
+/onepf/OpenIAB
+/sleekbyte/tailor
+/alibaba/taokeeper
+/eucalyptus/eucalyptus
+/atomix/atomix
+/ReactiveX/RxNetty
+/rapidoid/rapidoid
+/jacoco/jacoco
+/Netflix/genie
+/facebook/nifty

@@ -1,0 +1,10 @@
+/elastic/elasticsearch
+/ReactiveX/RxJava
+/iluwatar/java-design-patterns
+/nathanmarz/storm
+/spring-projects/spring-framework
+/zxing/zxing
+/google/guava
+/netty/netty
+/clojure/clojure
+/afollestad/material-dialogs

@@ -1,0 +1,10 @@
+/VoltDB/voltdb
+/joscha/play-authenticate
+/adnan-SM/TimelyTextView
+/nhaarman/supertooltips
+/unclebob/fitnesse
+/glomadrian/loading-balls
+/webbit/webbit
+/yanchenko/droidparts
+/apache/camel
+/Mashape/unirest-java

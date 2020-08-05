@@ -1,0 +1,10 @@
+/vitovalov/TabbedCoordinatorLayout
+/cmusphinx/sphinx4
+/naver/yobi
+/Netflix/Turbine
+/nicolasgramlich/AndEngineExamples
+/ViksaaSkool/AwesomeSplash
+/TaurusXi/GuideBackgroundColorAnimation
+/chiemy/CardView
+/mgarin/weblaf
+/jbake-org/jbake

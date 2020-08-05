@@ -1,0 +1,10 @@
+/syncany/syncany
+/pcpratts/rootbeer1
+/mrniko/netty-socketio
+/code-mc/loadtoast
+/lingochamp/FileDownloader
+/jfinal/jfinal
+/skavanagh/KeyBox
+/geometer/FBReaderJ
+/reactive-streams/reactive-streams-jvm
+/tvbarthel/BlurDialogFragment

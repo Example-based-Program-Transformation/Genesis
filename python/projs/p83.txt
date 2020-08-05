@@ -1,0 +1,10 @@
+/cesarferreira/RxPeople
+/sgroschupf/zkclient
+/intel-hadoop/HiBench
+/Netflix/karyon
+/ObjectLayout/ObjectLayout
+/Huawei-Hadoop/hindex
+/ktoso/maven-git-commit-id-plugin
+/twitter/cloudhopper-smpp
+/Parquet/parquet-mr
+/apache/jmeter

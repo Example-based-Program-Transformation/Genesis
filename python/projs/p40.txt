@@ -1,0 +1,10 @@
+/Netflix/ribbon
+/bitcoinj/bitcoinj
+/scobal/seyren
+/Sefford/CircularProgressDrawable
+/architjn/Auro
+/wangjiegulu/RapidFloatingActionButton
+/immutables/immutables
+/MyCATApache/Mycat-Server
+/spring-projects/spring-integration-samples
+/datumbox/datumbox-framework

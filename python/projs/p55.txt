@@ -1,0 +1,10 @@
+/singwhatiwanna/PinnedHeaderExpandableListView
+/tomighty/tomighty
+/capitalone/Hygieia
+/lawloretienne/Trestle
+/swaldman/c3p0
+/THEONE10211024/WaterDropListView
+/philipsorst/angular-rest-springsecurity
+/jamesdbloom/mockserver
+/GoClipse/goclipse
+/essentials/Essentials

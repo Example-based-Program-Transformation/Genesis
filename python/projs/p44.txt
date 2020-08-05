@@ -1,0 +1,10 @@
+/cbeust/jcommander
+/sarxos/webcam-capture
+/jianghejie/XRecyclerView
+/apache/solr
+/tigerguixh/QuickNews
+/alibaba/f2etest
+/lisawray/fontbinding
+/vaadin/vaadin
+/jdbi/jdbi
+/joel-costigliola/assertj-core

@@ -1,0 +1,10 @@
+/alibaba/otter
+/arimorty/floatingsearchview
+/google/grafika
+/HdrHistogram/HdrHistogram
+/google/jimfs
+/saulmm/Curved-Fab-Reveal-Example
+/renaudcerrato/ToggleDrawable
+/undertow-io/undertow
+/SonarSource/sonarqube
+/richardwilly98/elasticsearch-river-mongodb

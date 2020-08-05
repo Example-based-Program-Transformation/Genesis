@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=<path-to-gurobi> -DgroupId=gurobi -DartifactId=gurobi -Dversion=6.5.1 -Dpackaging=jar -DgeneratePom=true

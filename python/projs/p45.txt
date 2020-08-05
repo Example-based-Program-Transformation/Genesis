@@ -1,0 +1,10 @@
+/naman14/MaterialPowerMenu
+/CrawlScript/WebCollector
+/datastax/java-driver
+/jknack/handlebars.java
+/mitallast/diablo-js
+/menacher/java-game-server
+/OpenHFT/Chronicle-Queue
+/spring-projects/spring-data-jpa
+/dongjunkun/DropDownMenu
+/thebuzzmedia/imgscalr

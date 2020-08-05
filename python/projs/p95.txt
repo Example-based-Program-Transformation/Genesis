@@ -1,0 +1,10 @@
+/tinkerpop/pipes
+/ralfstx/minimal-json
+/shichaohui/AnimRefreshRecyclerView
+/afollestad/digitus
+/openmrs/openmrs-core
+/spring-projects/spring-data-redis
+/mulesoft/mule
+/jonfhancock/JsonToJava
+/mapstruct/mapstruct
+/rcongiu/Hive-JSON-Serde

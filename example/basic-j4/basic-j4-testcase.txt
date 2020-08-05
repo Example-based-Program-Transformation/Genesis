@@ -1,0 +1,3 @@
+com.basic.app.AppTest testPass 0
+com.basic.app.AppTest testBar 0
+com.basic.app.AppTest testFoo 1

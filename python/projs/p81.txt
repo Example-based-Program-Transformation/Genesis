@@ -1,0 +1,10 @@
+/jhw-dev/CircleLoadingView
+/mauimauer/cheapcast
+/spotify/heroic
+/floodlight/floodlight
+/dkmeteor/SmoothTransition
+/elastic/elasticsearch-mapper-attachments
+/relayrides/pushy
+/addthis/hydra
+/FasterXML/jackson-annotations
+/apache/struts

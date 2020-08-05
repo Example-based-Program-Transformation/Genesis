@@ -1,0 +1,10 @@
+/kairosdb/kairosdb
+/frakbot/JumpingBeans
+/jeeeyul/eclipse-themes
+/tomakehurst/wiremock
+/joyoyao/superCleanMaster
+/osmandapp/Osmand
+/googlesamples/cardboard-java
+/spring-projects/spring-petclinic
+/dommerq/SuperListview
+/jayway/JsonPath

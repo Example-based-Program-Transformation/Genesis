@@ -1,0 +1,10 @@
+/AlanCheen/PracticeDemo
+/saulmm/CoordinatorExamples
+/speedment/speedment
+/caelum/caelum-stella
+/OpenHFT/HugeCollections
+/SleepyTrousers/EnderIO
+/mcMMO-Dev/mcMMO
+/rhuss/docker-maven-plugin
+/blackberry/WebWorks
+/gwtbootstrap3/gwtbootstrap3

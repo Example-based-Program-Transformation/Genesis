@@ -1,0 +1,10 @@
+/maoruibin/GankDaily
+/guojunyi/PullDownListView
+/spring-projects/spring-test-mvc
+/husl-colors/husl
+/google/google-http-java-client
+/H07000223/FlycoPageIndicator
+/restfb/restfb
+/droolsjbpm/optaplanner
+/facebook/jcommon
+/mixare/mixare

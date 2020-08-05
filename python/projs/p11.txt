@@ -1,0 +1,10 @@
+/fqrouter/fqrouter
+/kevinsawicki/http-request
+/typesafehub/config
+/yusuke/twitter4j
+/spring-projects/spring-mvc-showcase
+/NanoHttpd/nanohttpd
+/Netflix/ice
+/NLPchina/ansj_seg
+/voldemort/voldemort
+/baoyongzhang/SwipeMenuListView

@@ -1,0 +1,10 @@
+/nicolasjafelle/SherlockNavigationDrawer
+/yesnault/PlayStartApp
+/PEXPlugins/PermissionsEx
+/palantir/atlasdb
+/davidmoten/rtree
+/puniverse/galaxy
+/mplushnikov/lombok-intellij-plugin
+/AndroidDeveloperLB/ListViewVariants
+/crawljax/crawljax
+/hanks-zyh/Conquer

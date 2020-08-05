@@ -1,0 +1,10 @@
+/SeleniumHQ/selenium
+/processing/processing
+/vinc3m1/RoundedImageView
+/druid-io/druid
+/Prototik/HoloEverywhere
+/neo4j/neo4j
+/brettwooldridge/HikariCP
+/facebook/buck
+/actorapp/actor-platform
+/orientechnologies/orientdb

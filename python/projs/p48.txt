@@ -1,0 +1,10 @@
+/elastic/elasticsearch-cloud-aws
+/spotify/apollo
+/javaslang/javaslang
+/spring-projects/spring-batch
+/google/truth
+/forcedotcom/phoenix
+/droolsjbpm/drools
+/spring-projects/spring-hateoas
+/KylinOLAP/Kylin
+/codefollower/Lealone

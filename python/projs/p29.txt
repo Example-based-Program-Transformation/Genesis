@@ -1,0 +1,10 @@
+/mongodb/morphia
+/hotchemi/PermissionsDispatcher
+/renaudcerrato/FloatingSearchView
+/rovo89/XposedInstaller
+/SpongePowered/SpongeForge
+/liquibase/liquibase
+/cloudera/flume
+/spullara/mustache.java
+/SpongePowered/SpongeAPI
+/sirthias/pegdown

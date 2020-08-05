@@ -1,0 +1,10 @@
+/simogeo/Filemanager
+/florent37/HollyViewPager
+/igniterealtime/Openfire
+/raphw/byte-buddy
+/gorbin/ASNE
+/apache/mahout
+/eclipse/jetty.project
+/BroadleafCommerce/BroadleafCommerce
+/SeldonIO/seldon-server
+/JetBrains/MPS

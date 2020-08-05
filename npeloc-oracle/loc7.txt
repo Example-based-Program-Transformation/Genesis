@@ -1,0 +1,2 @@
+1
+src/main/java/com/puppycrawl/tools/checkstyle/checks/naming/ParameterNameCheck.java 122 -1

@@ -1,0 +1,10 @@
+/airbnb/aerosolve
+/JetBrains/intellij-community
+/AsyncHttpClient/async-http-client
+/jhy/jsoup
+/apache/cassandra
+/dropbox/hackpad
+/rengwuxian/MaterialEditText
+/apache/kafka
+/Atmosphere/atmosphere
+/frogermcs/InstaMaterial

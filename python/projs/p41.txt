@@ -1,0 +1,10 @@
+/datumbox/datumbox-framework
+/nasa/mct
+/drakeet/SmsCodeHelper
+/linkedin/camus
+/functionaljava/functionaljava
+/sonyxperiadev/ApkAnalyser
+/alibaba/TProfiler
+/elastic/elasticsearch-hadoop
+/AndroidAlliance/EdgeEffectOverride
+/yydcdut/PhotoNoter

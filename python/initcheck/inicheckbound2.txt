@@ -1,0 +1,1751 @@
+11424 1 43
+com.beust.jcommander.JCommanderTest negativeNumber
+com.beust.jcommander.JCommanderTest badParameterShouldThrowParameter2Exception
+com.beust.jcommander.command.CommandTest commandTest1
+com.beust.jcommander.JCommanderTest separatorBoth
+com.beust.jcommander.JCommanderTest multipleUnparsedFail
+com.beust.jcommander.JCommanderTest simpleArgs
+com.beust.jcommander.DefaultProviderTest defaultProvider2
+com.beust.jcommander.DefaultProviderTest propertyFileDefaultProvider3
+com.beust.jcommander.JCommanderTest converterArgs
+com.beust.jcommander.JCommanderTest separatorColon
+com.beust.jcommander.JCommanderTest multiObjectsWithDuplicatesFail
+com.beust.jcommander.ConverterFactoryTest mainWithFactory
+com.beust.jcommander.JCommanderTest multiObjects
+com.beust.jcommander.JCommanderTest arityString
+com.beust.jcommander.DefaultProviderTest defaultProvider3
+com.beust.jcommander.JCommanderTest separatorEqual
+com.beust.jcommander.DefaultProviderTest propertyFileDefaultProvider2
+com.beust.jcommander.JCommanderTest privateArgs
+com.beust.jcommander.JCommanderTest i18nNoLocale
+com.beust.jcommander.JCommanderTest i18nFrLocale
+com.beust.jcommander.JCommanderTest i18nUsLocale
+com.beust.jcommander.ConverterFactoryTest parameterWithHostPortParameters
+com.beust.jcommander.JCommanderTest inheritance
+com.beust.jcommander.JCommanderTest listParameters
+com.beust.jcommander.JCommanderTest usageShouldNotChange
+com.beust.jcommander.command.CommandTest commandTest2
+com.beust.jcommander.JCommanderTest badParameterShouldThrowParameter1Exception
+com.beust.jcommander.JCommanderTest commandsShouldBeShownInOrderOfInsertion
+com.beust.jcommander.JCommanderTest i18nWithResourceAnnotationNew
+com.beust.jcommander.JCommanderTest slashParameters
+com.beust.jcommander.JCommanderTest separatorMixed1
+com.beust.jcommander.JCommanderTest repeatedArgs
+com.beust.jcommander.JCommanderTest requiredFields1Fail
+com.beust.jcommander.DefaultProviderTest propertyFileDefaultProvider1
+com.beust.jcommander.DefaultProviderTest defaultProvider4
+com.beust.jcommander.DefaultProviderTest propertyFileDefaultProvider4
+com.beust.jcommander.JCommanderTest i18nWithResourceAnnotation
+com.beust.jcommander.JCommanderTest multipleNames1
+com.beust.jcommander.DefaultProviderTest defaultProvider1
+com.beust.jcommander.JCommanderTest arity2Fail
+com.beust.jcommander.JCommanderTest multipleNames2
+com.beust.jcommander.JCommanderTest requiredMainParameters
+com.beust.jcommander.ConverterFactoryTest mainWithoutFactory
+16295 0 0
+26652 1 136
+mikera.matrixx.TestMatrixx genericTests
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testSoftplus
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps genericTests
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testScalarArray
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testWrap
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testAllOps
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testSymmetric
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestDecomposition testCholesky
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testClone
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testDerivatives
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testLog10
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testVectorEquals
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testPermutationMatrix
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testDiagonalMatrix
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testSubMatrix
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestVector testRejoin
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestDecomposition testLU
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestMiscArrayOps testNonZeroCount
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testLinear
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testRange
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testScalarAdd
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testOp
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testTanh
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestMiscArrayOps testOuterProducts
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestArrays genericTests
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestMiscArrayOps testParse
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testTriangular
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testAbs
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testToString
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestDecomposition testSVD
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testDerivativeChains
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOpsExtra testCompositions
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.arrayz.TestNDArray testOuterProduct
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testLogistic
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testSubsetMatrix
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestDecomposition testQR
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testFunctions
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.matrixx.TestMatrices testStridedMatrix
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+[WARN]Unable to get test session id for test case: mikera.vectorz.TestOps testComposedOp
+[WARN]Count this testcase failed [WARN]Count this testcase failed!
+mikera.vectorz.TestOps testSoftplus
+mikera.vectorz.TestOps genericTests
+mikera.arrayz.TestNDArray testScalarArray
+mikera.vectorz.TestVectors testCross
+mikera.vectorz.impl.TestJoinedVector testJoinedViews
+mikera.arrayz.TestNDArray testWrap
+mikera.vectorz.TestOpsExtra testAllOps
+mikera.vectorz.TestVectorz testVector0
+mikera.matrixx.TestMatrices testSymmetric
+mikera.indexz.TestIndex testInvert
+mikera.matrixx.TestDecomposition testCholesky
+mikera.arrayz.TestNDArray testClone
+mikera.vectorz.TestOpsExtra testDerivatives
+mikera.vectorz.TestOps testLog10
+mikera.arrayz.TestNDArray testVectorEquals
+mikera.vectorz.impl.TestJoinedVector testJoinedArrayAdd
+mikera.matrixx.TestMatrices testPermutationMatrix
+mikera.matrixx.TestMatrices testDiagonalMatrix
+mikera.matrixx.TestMatrices testSubMatrix
+mikera.vectorz.TestVector testRejoin
+mikera.matrixx.TestDecomposition testLU
+mikera.arrayz.TestMiscArrayOps testNonZeroCount
+mikera.vectorz.TestOps testLinear
+mikera.vectorz.TestOpsExtra testRange
+mikera.arrayz.TestNDArray testScalarAdd
+mikera.vectorz.impl.TestJoinedVector testJoinedArrayVectorAddMultiple
+mikera.vectorz.impl.TestJoinedVector testJoinedArrays
+mikera.vectorz.TestOpsExtra testOp
+mikera.vectorz.TestOps testTanh
+mikera.matrixx.TestMatrixx testFromDoubleArrays
+mikera.vectorz.impl.TestSparseIndexedVector testAddProduct
+mikera.arrayz.TestMiscArrayOps testOuterProducts
+mikera.arrayz.TestArrays genericTests
+mikera.vectorz.impl.TestJoinedVector testJoinedArrayVectorAddMultiple2
+mikera.arrayz.TestMiscArrayOps testParse
+mikera.matrixx.TestMatrices testTriangular
+mikera.vectorz.TestOps testAbs
+mikera.vectorz.BitVectorTest testElementSum
+mikera.vectorz.impl.TestJoinedVector testJoinedVector3Add
+mikera.matrixx.TestMatrices testToString
+mikera.matrixx.TestDecomposition testSVD
+mikera.vectorz.impl.TestJoinedVector testJoinedVectorAdd
+mikera.vectorz.TestOpsExtra testDerivativeChains
+mikera.indexz.TestIndex testSwapCount
+mikera.vectorz.TestOpsExtra testCompositions
+mikera.vectorz.impl.TestJoinedVector testJoinedArraySubs
+mikera.indexz.TestIndexz testVectorConvert
+mikera.arrayz.TestNDArray testOuterProduct
+mikera.vectorz.TestOps testLogistic
+mikera.matrixx.TestMatrices testSubsetMatrix
+mikera.matrixx.TestDecomposition testQR
+mikera.vectorz.TestVectors genericTests
+mikera.vectorz.TestOps testFunctions
+mikera.matrixx.TestMatrices testStridedMatrix
+mikera.vectorz.TestOps testComposedOp
+mikera.vectorz.TestVectors testToString
+mikera.vectorz.TestScalars miscTests
+mikera.vectorz.impl.TestJoinedVector testJoinedArrayVectors
+mikera.vectorz.impl.TestJoinedVector testJoinedCoalesce
+26621 1 30
+org.jpos.util.FSDMsgTestCase testDummySeparatorAlpha
+org.jpos.util.FSDMsgEndOfMessageTestCase testUnpack
+org.jpos.iso.packagers.PackagerTestCase testF64Binary
+org.jpos.util.FSDMsgTestCase testFSDMsgDefaultKey
+org.jpos.iso.packagers.PackagerTestCase testGeneric93binary
+org.jpos.iso.packagers.PackagerTestCase testISO93BPackager
+org.jpos.space.JDBMSpaceTestCase testExistWithTimeout
+org.jpos.iso.packagers.PackagerTestCase testGeneric93ascii
+org.jpos.iso.packagers.PackagerTestCase testGeneric93ebcdic
+org.jpos.util.FSDMsgTestCase testDummySeparatorBinary
+org.jpos.util.FSDMsgSeparatorTestCase testSeparator
+org.jpos.util.FSDMsgEndOfMessageTestCase testPack
+org.jpos.q2.iso.QMUXTestCase testAnsweredMessage
+org.jpos.iso.packagers.PackagerTestCase testGeneric87ascii
+org.jpos.util.FSDMsgTestCase testFinalField
+org.jpos.util.FSDMsgTestCase testTraillingBlanksDroppedwithFS
+org.jpos.iso.packagers.PackagerTestCase testXMLPackager
+org.jpos.iso.packagers.PackagerTestCase testISO87APackager
+org.jpos.util.FSDMsgTestCase testLeadingBlanks
+org.jpos.util.FSDMsgTestCase testMixedBlanksLeadingArePreserved
+org.jpos.q2.iso.QMUXTestCase testExpiredMessage
+org.jpos.q2.iso.QMUXTestCase testMTIMapping
+org.jpos.iso.packagers.PackagerTestCase testPostPackager
+org.jpos.iso.packagers.PackagerTestCase testISO87BPackager
+org.jpos.iso.packagers.PackagerTestCase testISO93APackager
+org.jpos.util.FSDMsgTestCase testDummySeparatorNumeric
+org.jpos.iso.packagers.PackagerTestCase testF64ascii
+org.jpos.iso.packagers.PackagerTestCase testGeneric87binary
+org.jpos.iso.packagers.PackagerTestCase testPerformance
+org.jpos.util.FSDMsgPropertiesTestCase testSeparator
+23741 2 0
+26547 0 0
+26524 1 856
+org.apache.pdfbox.filter.PredictorTest testCalcSetBitSeq
+org.apache.pdfbox.rendering.TestRendering render[4PP-Highlighting.pdf]
+org.apache.pdfbox.pdfparser.TestPDFParser testPDFParserFileScratchFile
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[6]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-e.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t03-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SceneType]
+org.apache.xmpbox.type.TestThumbnailType testRandomPropertyType[3]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest duration
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif UserComment]
+org.apache.xmpbox.type.TestJobType testRandomPropertyType[1]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[11]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[8]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[11]
+org.apache.pdfbox.cos.TestCOSStream testCompressedStream2Decode
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-d.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestUriAction test
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif Saturation]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM DocumentID]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-f.pdf]
+org.apache.pdfbox.pdmodel.common.PDStreamTest testCreateInputStreamNullFilters
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff ImageWidth]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest retrieveAcrobatRadioButtonProperties
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetValidationPageProcess_noError
+org.apache.pdfbox.tools.TestExtractText testEmbeddedPDFs
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.2 Properties/isartor-6-7-2-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-d.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t04-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest openNodeAndAppend
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.12 Implementation Limits/isartor-6-1-12-t01-fail-d.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addLastOpenChildToOpenParent
+org.apache.pdfbox.util.MatrixTest testPdfbox2872
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[7]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.9 Interactive Forms/isartor-6-9-t02-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/pdf/1.3/ pdf PDFVersion]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetMissingValidationProcess
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[14]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[8]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.13 Optional content/isartor-6-1-13-t01-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FNumber]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-i.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[5]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestLatitude]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[Manager org.apache.xmpbox.type.TypeMapping$1@71f2a7d5 {2}]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[DocumentID org.apache.xmpbox.type.TypeMapping$1@7a92922 {2}]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SpectralSensitivity]
+org.apache.pdfbox.pdmodel.common.TestEmbeddedFiles testOSSpecificAttachments
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[9]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest createRadioButton
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif MaxApertureValue]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[1]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[14]
+org.apache.pdfbox.multipdf.PDFMergerUtilityTest testJpegCcitt
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[2]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[7]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.3 Document information dictionary/isartor-6-7-3-t01-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addFirstSingleChild
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest closeNodeWithOpendParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSAltitude]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[4]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[13]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.6 Font metrics/isartor-6-3-6-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-i.pdf]
+org.apache.xmpbox.type.TestLayerType testRandomSettingValue[1]
+org.apache.xmpbox.type.TestThumbnailType testRandomSetter[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp CreateDate]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSLongitude]
+org.apache.xmpbox.type.TestLayerType testRandomSetter[1]
+org.apache.fontbox.cmap.TestCMapParser testLookup
+org.apache.pdfbox.filter.ccitt.TestPackedBitArray testPackedBitArray
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t01-fail-d.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[2]
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderInitialEOL
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestDistanceRef]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[13]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.11 Version and conformance level identification/isartor-6-7-11-t01-fail-d.pdf]
+org.apache.pdfbox.preflight.parser.TestXmlResultParser testSameCodeWithDifferentMessages
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ComponentsConfiguration]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-j.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addLastOpenChildToClosedParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestLongitude]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[DocumentID org.apache.xmpbox.type.TypeMapping$1@7a92922 {2}]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.9 Rendering intents/isartor-6-2-9-t01-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/t/pg/ xmpTPg MaxPageSize]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff PlanarConfiguration]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t05-fail-a.pdf]
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromTransparentGIF
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.5 XMP header/isartor-6-7-5-t02-fail-a.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[8]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[9]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-g.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[4]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-h.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp Identifier]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop CaptionWriter]
+org.apache.xmpbox.type.TestThumbnailType testRandomSettingValue[0]
+org.apache.pdfbox.examples.pdfa.CreatePDFATest testCreatePDFA
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff ImageDescription]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[14]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[0]
+org.apache.pdfbox.encryption.TestSymmetricKeyEncryption testProtectionInnerAttachment
+org.apache.pdfbox.pdmodel.interactive.form.PDDefaultAppearanceStringTest testParseDAString
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[11]
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testForbiddenN
+org.apache.xmpbox.type.TestThumbnailType testRandomPropertyType[1]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.7 Character encodings/isartor-6-3-7-t03-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t02-fail-a.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[7]
+org.apache.pdfbox.text.BidiTest testNotSorted
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[4]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-d.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest nullFirstChild
+org.apache.xmpbox.type.TestJobType testRandomSettingValue[1]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[11]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[5]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-i.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.3 Composite fonts/6.3.3.2 CIDFonts/isartor-6-3-3-2-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.12 Implementation Limits/isartor-6-1-12-t01-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.3 Composite fonts/6.3.3.1 General/isartor-6-3-3-1-t01-fail-a.pdf]
+org.apache.pdfbox.multipdf.PDFCloneUtilityTest testClonePDFWithCosArrayStream
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t04-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t02-fail-a.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[ManageTo org.apache.xmpbox.type.TypeMapping$1@2cfb4a64 {2}]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[InstanceID org.apache.xmpbox.type.TypeMapping$1@4b6995df {2}]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[9]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoAction testGoto_OK
+org.apache.pdfbox.preflight.action.pdfa1b.TestThreadAction test
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Copyright]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.10 Filters/isartor-6-1-10-t01-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDTextFieldTest createDefaultTextField
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.5 XMP header/isartor-6-7-5-t01-fail-a.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[ManageTo org.apache.xmpbox.type.TypeMapping$1@2cfb4a64 {2}]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t04-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.2 Output intent/isartor-6-2-2-t03-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.2 Properties/isartor-6-7-2-t03-fail-a.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[7]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t05-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SubjectDistanceRange]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSAreaInformation]
+org.apache.pdfbox.pdmodel.interactive.form.PDTextFieldTest createWidgetForGet
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.10 Filters/isartor-6-1-10-t01-fail-c.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setAbstractedCheckboxInvalidValue
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[6]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t02-fail-e.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-b.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingAfter_OpenChildToClosedParent
+org.apache.fontbox.ttf.TestMemoryTTFDataStream testEOF
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[12]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[15]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.2 Properties/isartor-6-7-2-t02-fail-b.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setValueForAbstractedAcrobatCheckBox
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-a.pdf]
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[5]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[2]
+org.apache.pdfbox.pdmodel.font.TestFontEmbedding testCIDFontType2Subset
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Orientation]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[12]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.4 Separation and DeviceN colour spaces/isartor-6-2-3-4-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-f.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t01-fail-d.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t02-fail-d.pdf]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromImage256
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc description]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[5]
+org.apache.fontbox.ttf.TTFSubsetterTest testEmptySubset
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc relation]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[0]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[12]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBefore_ClosedChildToOpenParent
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[5]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[Ingredients org.apache.xmpbox.type.TypeMapping$1@61a52fbd {2}]
+org.apache.xmpbox.type.TestThumbnailType testRandomSetter[3]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[4]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest cannotAddLastAList
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[8]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-g.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[11]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest iteratorNoChildre
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[10]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[InstanceID org.apache.xmpbox.type.TypeMapping$1@4b6995df {2}]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[6]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM ManageTo]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingTopNoParent
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[8]
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[5]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[7]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBefore_ClosedChildToClosedParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp ModifierDate]
+org.apache.pdfbox.pdmodel.TestPDDocumentInformation testMetadataExtraction
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addFirstClosedChildToOpenParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif RelatedSoundFile]
+org.apache.pdfbox.pdmodel.TestPDPageTree positiveSingleLevel
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[14]
+org.apache.pdfbox.pdmodel.interactive.form.TestListBox testChoicePDModel
+org.apache.pdfbox.text.TestTextStripper testExtract
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDOP]
+org.apache.pdfbox.pdmodel.interactive.form.TestCheckBox testCheckboxPDModel
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-j.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestUriAction testMissingURI
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.2 Output intent/isartor-6-2-2-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.4 Images/isartor-6-2-4-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-h.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[3]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t02-fail-a.pdf]
+org.apache.pdfbox.rendering.TestRendering render[test-landscape2.pdf]
+org.apache.pdfbox.pdmodel.common.TestEmbeddedFiles testNullEmbeddedFile
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-i.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop AuthorsPosition]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM VersionID]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemIteratorTest singleItem
+org.apache.pdfbox.pdfparser.TestPDFParser testPDFParserInputStream
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-h.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-g.pdf]
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderWithEOL
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[6]
+org.apache.xmpbox.type.TestThumbnailType testRandomSettingValue[3]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[12]
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testMovie
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest flyArea
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBefore_OpenChildToOpenParent
+org.apache.pdfbox.rendering.TestRendering render[FANTASTICCMYK.ai]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Credit]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.11 Version and conformance level identification/isartor-6-7-11-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.2 Font types/isartor-6-3-2-t01-fail-a.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[15]
+org.apache.xmpbox.type.TestThumbnailType testRandomPropertyType[2]
+org.apache.xmpbox.type.TestThumbnailType testRandomPropertyType[0]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t04-fail-d.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-h.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-c.pdf]
+org.apache.xmpbox.type.TestVersionType testRandomSetter[0]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest iterator
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ImageUniqueID]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemIteratorTest multipleItem
+org.apache.xmpbox.type.TestVersionType testRandomPropertyType[0]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[History org.apache.xmpbox.type.TypeMapping$1@445b84c0 {2}]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest createCheckBox
+org.apache.pdfbox.pdmodel.graphics.color.PDLabTest testLAB
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[3]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[16]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif CompressedBitsPerPixel]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM SaveID]
+org.apache.pdfbox.cos.TestCOSStream testCompressedStream1Decode
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[3]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSImgDirectionRef]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ColorSpace]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/rights/ xmpRights Marked]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif WhiteBalance]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-i.pdf]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[0]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM ManagedFrom]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.2 Properties/isartor-6-7-2-t02-fail-a.pdf]
+org.apache.pdfbox.tools.TestPDFText2HTML testStyle
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSSpeed]
+org.apache.pdfbox.pdmodel.interactive.annotation.PDAnnotationTest createDefaultWidgetAnnotation
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM DerivedFrom]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp CreatorTool]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FocalPlaneResolutionUnit]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[12]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[10]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif Flash]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[5]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t03-fail-c.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[7]
+org.apache.pdfbox.preflight.action.pdfa1b.TestSubmitAction testMissngF
+org.apache.pdfbox.encryption.TestPublicKeyEncryption testProtectionError
+org.apache.pdfbox.examples.pdmodel.TestCreateSignature testCreateVisibleSignature
+org.apache.pdfbox.filter.PredictorTest testGetBitSeq
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[1]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Category]
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[3]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff SamplesPerPixel]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.7 Character encodings/isartor-6-3-7-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoAction testGoto_KO_missingD
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t03-fail-a.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[7]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[6]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.2 File header/isartor-6-1-2-t02-fail-a.pdf]
+org.apache.pdfbox.rendering.TestRendering render[HOTRODCMYK.ai]
+org.apache.pdfbox.pdmodel.interactive.form.PDAcroFormTest testFieldsEntry
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[4]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[9]
+org.apache.pdfbox.pdmodel.font.PDFontTest testPDFBox988
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-c.pdf]
+org.apache.xmpbox.type.TestJobType testRandomPropertyType[2]
+org.apache.pdfbox.pdmodel.graphics.image.CCITTFactoryTest testCreateFromRandomAccessMulti
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-f.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff YCbCrCoefficients]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setValueForAbstractedAcrobatRadioButton
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t02-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-f.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t01-fail-c.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest openNodeWithOpendParent
+org.apache.pdfbox.pdmodel.graphics.color.PDDeviceCMYKTest testCMYK
+org.apache.pdfbox.encryption.TestPublicKeyEncryption testMultipleRecipients
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Headline]
+org.apache.pdfbox.text.BidiTest testSorted
+org.apache.xmpbox.type.TestThumbnailType testRandomSetter[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.4 Images/isartor-6-2-4-t01-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingAfter_ClosedChildToOpenParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/rights/ xmpRights Owner]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-c.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Make]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[Versions org.apache.xmpbox.type.TypeMapping$1@61443d8f {2}]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.2 Output intent/isartor-6-2-2-t02-fail-b.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Compression]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t04-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.3 Composite fonts/6.3.3.3 CMaps/isartor-6-3-3-3-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-b.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[11]
+org.apache.pdfbox.pdmodel.font.TestFontEmbedding testCIDFontType2
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Source]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[4]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[2]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[0]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff YCbCrPositioning]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.3 File trailer/isartor-6-1-3-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.7 PostScript XObjects/isartor-6-2-7-t02-fail-a.pdf]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[2]
+org.apache.pdfbox.pdmodel.interactive.form.PDAcroFormTest testAcroFormProperties
+org.apache.pdfbox.pdmodel.interactive.form.MultilineFieldsTest fillFields
+org.apache.pdfbox.pdmodel.interactive.form.PDSignatureFieldTest createDefaultSignatureField
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-e.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc date]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addFirstOpenChildToOpenParent
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setAbstractedRadioButtonInvalidValue
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.10 Content Streams/isartor-6-2-10-t01-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDChoiceTest createComboBox
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[13]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif CustomRendered]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SceneCaptureType]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromStream
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-f.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[3]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Instructions]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addLastClosedChildToClosedParent
+org.apache.pdfbox.pdmodel.graphics.image.CCITTFactoryTest testCreateFromRandomAccessSingle
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t01-fail-a.pdf]
+org.apache.pdfbox.tools.imageio.TestImageIOUtils testRenderImage
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.11 Version and conformance level identification/isartor-6-7-11-t01-fail-c.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testLaunch
+org.apache.pdfbox.cos.PDFDocEncodingTest testDeviations
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-f.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[2]
+org.apache.pdfbox.examples.pdmodel.TestCreateSignature testDetachedSHA256WithTSA
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t01-fail-a.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[8]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDDocumentOutlineTest outlinesCount
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif CFAPattern]
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testFirstPage
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t06-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GainControl]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.3 File trailer/isartor-6-1-3-t03-fail-a.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[3]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[11]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.9 Validation/isartor-6-7-9-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-b.pdf]
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[4]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[13]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSVersionID]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.4 Cross reference trailer/isartor-6-1-4-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.11 Embedded Files/isartor-6-1-11-t01-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop DateCreated]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc format]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.11 Embedded Files/isartor-6-1-11-t02-fail-a.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[9]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t01-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDDefaultAppearanceStringTest testFontResourceUnavailable
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM Manager]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-d.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSMapDatum]
+org.apache.pdfbox.pdmodel.graphics.image.PDInlineImageTest testInlineImage
+org.apache.xmpbox.DateConverterTest testDateConversion
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.11 Version and conformance level identification/isartor-6-7-11-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-g.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-e.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp MetadataDate]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.2 Output intent/isartor-6-2-2-t01-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM RenditionParams]
+org.apache.pdfbox.util.TestQuickSort testSort
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SensingMethod]
+org.apache.pdfbox.cos.TestCOSStream testUncompressedStreamEncode
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[1]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[3]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t03-fail-b.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest nullLastChild
+org.apache.xmpbox.type.TestLayerType testRandomSetter[0]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setCheckboxInvalidValue
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testJS
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[Manager org.apache.xmpbox.type.TypeMapping$1@71f2a7d5 {2}]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[10]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.7 Character encodings/isartor-6-3-7-t02-fail-a.pdf]
+org.apache.pdfbox.pdmodel.fdf.FDFAnnotationTest loadXFDFAnnotations
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t02-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.2 Font types/isartor-6-3-2-t01-fail-c.pdf]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest flyScale
+org.apache.xmpbox.type.TestJobType testRandomSettingValue[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExposureTime]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop TransmissionReference]
+org.apache.pdfbox.cos.TestCOSStream testCompressedStream1Encode
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest testAcrobatCheckBoxGroupProperties
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-a.pdf]
+org.apache.pdfbox.multipdf.PDFMergerUtilityTest testPDFMergerUtility
+org.apache.xmpbox.type.TestJobType testRandomSetter[0]
+org.apache.pdfbox.preflight.metadata.TestMetadataFiles validate
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[10]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t05-fail-a.pdf]
+org.apache.pdfbox.examples.pdmodel.TestCreateSignature testDetachedSHA256
+org.apache.pdfbox.cos.TestCOSStream testCompressedStream2Encode
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[8]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.3 Document information dictionary/isartor-6-7-3-t01-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t03-fail-b.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestHideAction testHideAction_InvalideT
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc rights]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetValidationProcess_noError
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[3]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[11]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff YCbCrSubSampling]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest nodeClosedByDefault
+org.apache.pdfbox.preflight.action.pdfa1b.TestThreadAction testMissingD
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t02-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FlashpixVersion]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t02-fail-c.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[4]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[12]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-h.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[5]
+org.apache.xmpbox.schema.TestExifXmp testNonStrict
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromImageBITMASK4BYTE_ABGR
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSImgDirection]
+org.apache.pdfbox.encryption.TestSymmetricKeyEncryption testPermissions
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[6]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSAltitudeRef]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t03-fail-c.pdf]
+org.apache.fontbox.cff.Type1FontUtilTest testHexEncoding
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.10 Content Streams/isartor-6-2-10-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.4 Images/isartor-6-2-4-t04-fail-a.pdf]
+org.apache.pdfbox.tools.TestTextToPdf testCreateEmptyPdf
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop City]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff TransferFunction]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/t/pg/ xmpTPg NPages]
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[4]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t01-fail-b.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc identifier]
+org.apache.pdfbox.cos.TestCOSUpdateInfo testIsSetNeedToBeUpdate
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setValueForAbstractedCheckBoxGroup
+org.apache.xmpbox.type.TestThumbnailType testRandomSetter[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop State]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[2]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest openLeaf
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-k.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t01-fail-c.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Software]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest directionNone
+org.apache.pdfbox.pdfparser.TestPDFParser testPDFParserInputStreamScratchFile
+org.apache.pdfbox.tools.TestPDFText2HTML testEscapeTitle
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff BitsPerSample]
+org.apache.pdfbox.pdfparser.TestPDFParser testPDFParserMissingCatalog
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testSound
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[10]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t03-fail-a.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[Versions org.apache.xmpbox.type.TypeMapping$1@61443d8f {2}]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest cannotInsertSiblingBeforeAList
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t02-fail-b.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Artist]
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSStatus]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.2 Font types/isartor-6-3-2-t01-fail-b.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDAcroFormTest testFlatten
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testPrevPage
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff YResolution]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest testAcrobatCheckBoxProperties
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoRemoteAction testGoto_KO_MissingD
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[13]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff ImageLength]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM Versions]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.5 Form Xobjects/isartor-6-2-5-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testImportData
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.12 Implementation Limits/isartor-6-1-12-t01-fail-b.pdf]
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff DateTime]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[5]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[1]
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testMissingN
+org.apache.pdfbox.preflight.action.pdfa1b.TestHideAction testHideAction_MissingT
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoRemoteAction testGoto_OK
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[13]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t04-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-h.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest closeNodeWithClosedParent
+org.apache.pdfbox.preflight.parser.TestXmlResultParser testTwoError
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FocalLengthIn35mmFilm]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.6 Font metrics/isartor-6-3-6-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.parser.TestXmlResultParser testOneError
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-e.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[2]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-h.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[1]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.7 PostScript XObjects/isartor-6-2-7-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-f.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testNextPage
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-d.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest retrieveAcrobatCheckBoxProperties
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t01-fail-a.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[Ingredients org.apache.xmpbox.type.TypeMapping$1@61a52fbd {2}]
+org.apache.pdfbox.preflight.action.pdfa1b.TestUriAction testNextInvalid
+org.apache.pdfbox.preflight.action.pdfa1b.TestThreadAction testInvalidD
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setRadioButtonInvalidValue
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SubjectLocation]
+org.apache.pdfbox.pdfparser.PDFStreamParserTest testInlineImages
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[8]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp Advisory]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest defaultStyle
+org.apache.xmpbox.type.TestJobType testRandomSetter[2]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[17]
+org.apache.xmpbox.type.TestResourceEventType testRandomPropertyType[3]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[3]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSTrackRef]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setCheckboxGroupInvalidValue
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp Thumbnails]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif DateTimeOriginal]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t04-fail-c.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[5]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest directionNumber
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop SupplementalCategories]
+org.apache.xmpbox.parser.DeserializationTest testSpaceTextValues
+org.apache.pdfbox.multipdf.PageExtractorTest testExtract
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExposureIndex]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionDirectionTest getCOSBase
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.3 Document information dictionary/isartor-6-7-3-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t03-fail-d.pdf]
+org.apache.pdfbox.pdmodel.TestPDPageTree indexOfPageFromOutlineDestination
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-c.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExposureMode]
+org.apache.pdfbox.multipdf.PDFMergerUtilityTest testPDFMergerUtility2
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDifferential]
+org.apache.xmpbox.type.TestJobType testRandomSetter[1]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[17]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t04-fail-c.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[3]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif OECF]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest getParent
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[3]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[0]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDDocumentOutlineTest outlinesCountShouldNotBeNegative
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp Nickname]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[1]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-i.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[4]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t02-fail-b.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[16]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[4]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingAfter_ClosedChildToClosedParent
+org.apache.pdfbox.preflight.action.pdfa1b.TestUriAction testNextValid
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExposureBiasValue]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc language]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[11]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-d.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc publisher]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t04-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.form.TestRadioButtons testRadioButtonPDModel
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSTrack]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc title]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ApertureValue]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t03-fail-d.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestNamedAction testLastPage
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[2]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t02-fail-c.pdf]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromStream256
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.12 Implementation Limits/isartor-6-1-12-t01-fail-a.pdf]
+org.apache.xmpbox.type.TestThumbnailType testRandomSettingValue[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff Model]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[14]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t04-fail-b.pdf]
+org.apache.pdfbox.rendering.TestRendering render[tiger-as-form-xobject.pdf]
+org.apache.xmpbox.type.TestLayerType testRandomSettingValue[0]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBottom
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestBearing]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[14]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FocalPlaneXResolution]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[8]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addFirstOpenChildToClosedParent
+org.apache.fontbox.cff.Type1FontUtilTest testCharstringEncryption
+org.apache.xmpbox.type.TestThumbnailType testRandomSettingValue[2]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[RenditionParams org.apache.xmpbox.type.TypeMapping$1@591f989e {2}]
+org.apache.xmpbox.type.TestJobType testRandomPropertyType[0]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[ManageUI org.apache.xmpbox.type.TypeMapping$1@5474c6c {2}]
+org.apache.pdfbox.preflight.parser.TestXmlResultParser testSameErrorTwice
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest getStyle
+org.apache.pdfbox.multipdf.PDFCloneUtilityTest testClonePDFWithCosArrayStream2
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[13]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ISOSpeedRatings]
+org.apache.pdfbox.pdmodel.interactive.annotation.PDAnnotationTest createWidgetAnnotationFromField
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SubjectDistance]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[15]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-e.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[ManageUI org.apache.xmpbox.type.TypeMapping$1@5474c6c {2}]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-h.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[10]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[4]
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[0]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[8]
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[2]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SpatialFrequencyResponse]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.10 Filters/isartor-6-1-10-t01-fail-b.pdf]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetMissingValidationProcess2
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[10]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif SubjectArea]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif BrightnessValue]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.10 Content Streams/isartor-6-2-10-t01-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.3 File trailer/isartor-6-1-3-t02-fail-a.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[4]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-a.pdf]
+org.apache.pdfbox.multipdf.TestLayerUtility testLayerImport
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.3 Annotation dictionaries/isartor-6-5-3-t04-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExposureProgram]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[14]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FlashEnergy]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.2 Properties/isartor-6-7-2-t02-fail-c.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest equalsNode
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[10]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[3]
+org.apache.pdfbox.pdmodel.common.PDStreamTest testCreateInputStreamEmptyFilters
+org.apache.pdfbox.encryption.TestPublicKeyEncryption testProtection
+org.apache.pdfbox.cos.TestCOSStream testUncompressedStreamDecode
+org.apache.pdfbox.pdmodel.font.TestTTFParser testPostTable
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff ResolutionUnit]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.2 Trigger events/isartor-6-6-2-t01-fail-a.pdf]
+org.apache.fontbox.cff.Type1FontUtilTest testEexecEncryption
+org.apache.xmpbox.type.TestResourceEventType testRandomSetter[0]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[History org.apache.xmpbox.type.TypeMapping$1@445b84c0 {2}]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc type]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.3 Composite fonts/6.3.3.3 CMaps/isartor-6-3-3-3-t02-fail-a.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[5]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM ManageUI]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[0]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-e.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM LastURL]
+org.apache.pdfbox.preflight.action.pdfa1b.TestForbiddenAction testResetForm
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff PhotometricInterpretation]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[7]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromImageRGB
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t01-fail-b.pdf]
+org.apache.pdfbox.rendering.TestRendering render[source.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.6 Reference XObjects/isartor-6-2-6-t01-fail-a.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[17]
+org.apache.pdfbox.examples.pdmodel.TestRubberStampWithImage test
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-c.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSTimeStamp]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t04-fail-c.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.3 File trailer/isartor-6-1-3-t04-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t04-fail-d.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-b.pdf]
+org.apache.pdfbox.pdmodel.graphics.color.PDICCBasedTest testConstructor
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[16]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ExifVersion]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc subject]
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromImageBITMASK_INT_ARGB
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[6]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addLastSingleChild
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FocalPlaneYResolution]
+org.apache.pdfbox.preflight.action.pdfa1b.TestSubmitAction test
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBefore_OpenChildToClosedParent
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff ReferenceBlackWhite]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.4 Cross reference trailer/isartor-6-1-4-t02-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest cannotAddFirstAList
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[9]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest testAcrobatRadioButtonProperties
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[7]
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromImage4BYTE_ABGR
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.9 Interactive Forms/isartor-6-9-t01-fail-a.pdf]
+org.apache.xmpbox.schema.TestExifXmp testGenerate
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[1]
+org.apache.xmpbox.DateConverterTest testDateFormatting
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addFirstClosedChildToClosedParent
+org.apache.pdfbox.rendering.TestRendering render[ARCHIVERGB.ai]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.6 Font metrics/isartor-6-3-6-t01-fail-c.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[2]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.7 Stream objects/isartor-6-1-7-t03-fail-a.pdf]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[VersionID org.apache.xmpbox.type.TypeMapping$1@66048bfd {2}]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[16]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest closeAlreadyClosedRootNode
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderWhiteLines
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t03-fail-a.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[9]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/rights/ xmpRights WebStatement]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSLatitude]
+org.apache.pdfbox.pdmodel.TestPDPageContentStream testSetCmykColors
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Urgency]
+org.apache.xmpbox.type.TestResourceRefType testRandomSetter[4]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoAction testGoto_KO_invalidContent
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest setAbstractedCheckboxGroupInvalidValue
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-b.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[11]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc contributor]
+org.apache.pdfbox.preflight.action.pdfa1b.TestHideAction testHideAction
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/pdf/1.3/ pdf Producer]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.4 Separation and DeviceN colour spaces/isartor-6-2-3-4-t01-fail-b.pdf]
+org.apache.xmpbox.type.TestJobType testRandomSettingValue[0]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif PixelXDimension]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromImage4BYTE_ABGR
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM History]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.7 Metadata/6.7.8 Extension schemas/isartor-6-7-8-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.9 Interactive Forms/isartor-6-9-t02-fail-b.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t02-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.4 Images/isartor-6-2-4-t03-fail-a.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemIteratorTest removeUnsupported
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/photoshop/1.0/ photoshop Country]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[9]
+org.apache.xmpbox.type.TestLayerType testRandomPropertyType[0]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoRemoteAction testGoto_KO_MissingF
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/pdf/1.3/ pdf Keywords]
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderAlignedWithRTC
+org.apache.pdfbox.pdmodel.common.PDStreamTest testCreateInputStreamNullStopFilters
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[5]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif PixelYDimension]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSSatellites]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest motion
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest addLastClosedChildToOpenParent
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.2 File header/isartor-6-1-2-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetValidationProcess
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t05-fail-b.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[0]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff WhitePoint]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc source]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[10]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif Sharpness]
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromImageRGB
+org.apache.pdfbox.pdfparser.TestPDFParser testPDFParserFile
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[9]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[VersionID org.apache.xmpbox.type.TypeMapping$1@66048bfd {2}]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/rights/ xmpRights UsageTerms]
+org.apache.xmpbox.type.TestResourceRefType testRandomSettingValue[6]
+org.apache.fontbox.ttf.TestTTFParser testUTCDate
+org.apache.xmpbox.type.TestLayerType testRandomPropertyType[1]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-g.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[7]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-e.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[7]
+org.apache.pdfbox.pdmodel.graphics.image.LosslessFactoryTest testCreateLosslessFromImageINT_ARGB
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.5 Font subsets/isartor-6-3-5-t01-fail-a.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[12]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[10]
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetProperty[OriginalDocumentID org.apache.xmpbox.type.TypeMapping$1@2fc14f68 {2}]
+org.apache.pdfbox.pdmodel.graphics.image.JPEGFactoryTest testCreateFromImageINT_ARGB
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc coverage]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.4 Transparency/isartor-6-4-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t04-fail-g.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-e.pdf]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[5]
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterInArray[9]
+org.apache.pdfbox.pdmodel.TestPDPageTransitions readTransitions
+org.apache.xmpbox.type.TestVersionType testRandomSettingValue[0]
+org.apache.xmpbox.type.TestResourceEventType testRandomSettingValue[1]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/bj/ xmpBJ JobRef]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSProcessingMethod]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/ xmp BaseURL]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif DeviceSettingDescription]
+org.apache.pdfbox.pdmodel.interactive.form.PDButtonTest createPushButton
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff PrimaryChromaticities]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemIteratorTest noChildren
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[6]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif DateTimeDigitized]
+org.apache.pdfbox.preflight.action.pdfa1b.TestHideAction testHideAction_InvalideH
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-d.pdf]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest defaultValues
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[6]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSSpeedRef]
+org.apache.pdfbox.text.TestTextStripper testStripByOutlineItems
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest openNodeWithClosedParent
+org.apache.pdfbox.io.TestRandomAccessOutputStream testWrite
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t03-fail-a.pdf]
+org.apache.pdfbox.preflight.action.pdfa1b.TestGotoRemoteAction testGoto_KO_InvalidContent
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-g.pdf]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingBottomNoParent
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderRowsRestriction
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[RenditionParams org.apache.xmpbox.type.TypeMapping$1@591f989e {2}]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingAfter_OpenChildToOpenParent
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValueInArray[1]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[11]
+org.apache.pdfbox.pdmodel.interactive.pagenavigation.PDTransitionTest dimension
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM RenditionOf]
+org.apache.pdfbox.pdfparser.EndstreamOutputStreamTest testEndstreamOutputStream
+org.apache.pdfbox.preflight.action.pdfa1b.TestUriAction testInvalidURI
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetValidationPageProcess
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[9]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[15]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetMissingValidationPageProcess
+org.apache.pdfbox.pdmodel.interactive.form.PDDefaultAppearanceStringTest testWrongNumberOfColorArguments
+org.apache.pdfbox.filter.ccitt.TestCCITTFaxG31DDecodeInputStream testDecoderNaked
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/rights/ xmpRights Certificate]
+org.apache.pdfbox.pdmodel.interactive.form.PDSignatureFieldTest setValueForAbstractedSignatureField
+org.apache.xmpbox.schema.DublinCoreTest testRandomPropertySetterSimple[10]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSMeasureMode]
+org.apache.pdfbox.pdmodel.TestPDPageTree positiveMultipleLevel
+org.apache.xmpbox.schema.XMPMediaManagementTest testGetSetValue[OriginalDocumentID org.apache.xmpbox.type.TypeMapping$1@2fc14f68 {2}]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest cannotInsertSiblingAfterAList
+org.apache.pdfbox.pdmodel.interactive.form.AlignmentTest fillFields
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.5 Annotations/6.5.2 Annotation types/isartor-6-5-2-t01-fail-g.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM RenditionClass]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[0]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/xap/1.0/mm/ xmpMM ManagerVariant]
+org.apache.pdfbox.preflight.TestPreflightConfiguration testGetMissingValidationPageProcess2
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://purl.org/dc/elements/1.1/ dc creator]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif DigitalZoomRatio]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineNodeTest openAlreadyOpenedRootNode
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.6 Actions/6.6.1 General/isartor-6-6-1-t02-fail-f.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif ShutterSpeedValue]
+org.apache.xmpbox.schema.DublinCoreTest testRandomSettingValue[1]
+org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItemTest insertSiblingTop
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValueInArray[17]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t02-fail-d.pdf]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterInArray[3]
+org.apache.pdfbox.encryption.TestSymmetricKeyEncryption testProtection
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.3 Composite fonts/6.3.3.1 General/isartor-6-3-3-1-t01-fail-b.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif Contrast]
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomPropertySetterSimple[6]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FocalLength]
+org.apache.pdfbox.rendering.TestRendering render[survey.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif FileSource]
+org.apache.pdfbox.pdmodel.TestPDPageTransitions saveAndReadTransitions
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/tiff/1.0/ tiff XResolution]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.8 Indirect objects/isartor-6-1-8-t03-fail-a.pdf]
+org.apache.pdfbox.pdmodel.TestPDPageTree negative
+org.apache.xmpbox.schema.PhotoshopSchemaTest testRandomSettingValue[8]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif LightSource]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestDistance]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.3 Fonts/6.3.4 Embedded font programs/isartor-6-3-4-t01-fail-c.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif GPSDestBearingRef]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.3 Colour spaces/6.2.3.3 Uncalibrated colour spaces/isartor-6-2-3-3-t03-fail-e.pdf]
+org.apache.xmpbox.type.TestResourceRefType testRandomPropertyType[5]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.2 Graphics/6.2.8 Extended graphics state/isartor-6-2-8-t01-fail-a.pdf]
+org.apache.pdfbox.preflight.TestIsartorBavaria validate[target/pdfs/Isartor testsuite/PDFA-1b/6.1 File structure/6.1.6 String objects/isartor-6-1-6-t01-fail-a.pdf]
+org.apache.xmpbox.TestValidatePermitedMetadata checkExistence[http://ns.adobe.com/exif/1.0/ exif MeteringMode]
+org.apache.pdfbox.pdmodel.interactive.form.PDChoiceTest createListBox
+26557 1 678
+org.basex.test.BaseXClientTest noSerialization
+org.basex.test.server.LocalSessionOutTest replaceNameErr
+org.basex.test.server.LocalSessionOutTest replaceNoInput
+org.basex.test.server.CommandTest retrieve
+org.basex.test.server.LocalSessionTest queryError
+org.basex.test.data.MemDataTest findNonexistingNode
+org.basex.test.server.LocalSessionOutTest createNameErr
+org.basex.test.server.ServerCommandTest alterUser
+org.basex.test.data.DiskTableTest deleteFirstBlock
+org.basex.test.query.up.UpdateTest textMerging05
+org.basex.test.server.LocalSessionTest retrieveBinary
+org.basex.test.build.AddDeleteTest addFile
+org.basex.test.server.LocalSessionOutTest queryError2
+org.basex.test.query.func.FNDbTest dbSystem
+org.basex.test.BaseXStandaloneTest chop
+org.basex.test.query.NamespaceTest insertD2intoD1
+org.basex.test.query.NamespaceTest copy5
+org.basex.test.BaseXClientTest serial
+org.basex.test.query.expr.PackageAPITest notInstalledDeps
+org.basex.test.data.IdPreMapBulkFixedTest delete20
+org.basex.test.query.func.FNDbTest dbDelete
+org.basex.test.server.LocalSessionTest querySerial1
+org.basex.test.data.IdPreMapBulkFixedTest delete17
+org.basex.test.util.BitArrayTest nextClearBitInt
+org.basex.test.server.CommandTest alterUser
+org.basex.test.server.ClientSessionOutTest queryNoMore
+org.basex.test.server.ClientSessionTest queryInfo
+org.basex.test.query.func.FNCryptoTest validateSignatureWithSignatureType2
+org.basex.test.server.CommandTest xquery
+org.basex.test.server.ClientSessionTest retrieveBinary
+org.basex.test.server.ServerCommandTest retrieve
+org.basex.test.query.func.FNDbTest dbOpenId
+org.basex.test.build.AddDeleteTest addXMLString
+org.basex.test.server.CommandTest rename
+org.basex.test.server.ClientSessionTest commandSerial1
+org.basex.test.query.func.FNFormatIntTest test
+org.basex.test.query.func.FNCryptoTest hmacMD5defencoding
+org.basex.test.util.WesternTokenizerTest diaUC
+org.basex.test.server.LocalSessionOutTest create
+org.basex.test.util.WesternTokenizerTest diaLC
+org.basex.test.BaseXStandaloneTest runErr
+org.basex.test.server.ServerCommandTest dropIndex
+org.basex.test.server.LocalSessionTest queryBindURI
+org.basex.test.query.FTWildcardTest testMatch
+org.basex.test.server.ClientSessionOutTest create
+org.basex.test.query.func.FNCryptoTest validateSignatureWithCanonicalization3
+org.basex.test.server.ClientSessionTest replaceNoInput
+org.basex.test.BaseXStandaloneTest commandErr
+org.basex.test.query.func.FNZipTest binaryEntry
+org.basex.test.server.EventTest event
+org.basex.test.server.ClientSessionOutTest queryBind2
+org.basex.test.query.func.FNDbTest dbRename
+org.basex.test.BaseXStandaloneTest writeBack
+org.basex.test.server.LocalSessionOutTest queryBindJson
+org.basex.test.server.LocalSessionOutTest addNoInput
+org.basex.test.query.ast.TCOTest facTest
+org.basex.test.server.ClientSessionTest queryError3
+org.basex.test.server.LocalSessionTest storeBinary
+org.basex.test.util.CompressTest test4
+org.basex.test.query.IndexOptimizeTest dbOpenTest
+org.basex.test.data.IdPreMapBulkFixedTest insert2
+org.basex.test.util.WesternTokenizerTest diaCS
+org.basex.test.server.LocalSessionTest queryBindInt
+org.basex.test.util.UTF8Test string2token2string
+org.basex.test.server.CommandTest infoTable
+org.basex.test.query.expr.PackageAPITest notSupported
+org.basex.test.server.SemaphoreTest createTest
+org.basex.test.server.ClientSessionOutTest add
+org.basex.test.server.ServerCommandTest export
+org.basex.test.data.IdPreMapBulkFixedTest delete5
+org.basex.test.query.NamespaceTest queryPathOpt2
+org.basex.test.query.func.FNDbTest dbNodePre
+org.basex.test.build.CSVTest simple
+org.basex.test.query.func.FNXsltTest xsltTransform
+org.basex.test.server.ServerCommandTest replace
+org.basex.test.server.ClientSessionTest createErr
+org.basex.test.server.ClientSessionOutTest command
+org.basex.test.query.up.UpdateTest emptyInsert2
+org.basex.test.query.IndexOptimizeTest collTest
+org.basex.test.query.func.FNUtilTest utilEval
+org.basex.test.server.LocalSessionOutTest commandSerial2
+org.basex.test.query.func.FNMapTest mapContains
+org.basex.test.BaseXClientTest runs
+org.basex.test.query.func.FNDbTest dbOpen
+org.basex.test.BaseXClientTest bind
+org.basex.test.server.ServerCommandTest add
+org.basex.test.server.PermissionTest createPermsNeeded
+org.basex.test.data.IdPreMapTest deleteCorrectness2
+org.basex.test.query.expr.PackageAPITest notInstalledMin
+org.basex.test.BaseXStandaloneTest bindErr
+org.basex.test.server.CommandTest infoIndex
+org.basex.test.server.LocalSessionOutTest addNameErr
+org.basex.test.server.ClientSessionOutTest queryEmptyBinary
+org.basex.test.server.ClientSessionOutTest replace
+org.basex.test.server.CommandTest set
+org.basex.test.io.IOTest fileToURL
+org.basex.test.data.DiskDataTest insertDuplicateNode
+org.basex.test.query.func.FNFormatDateTest test
+org.basex.test.server.ClientSessionOutTest queryBinary
+org.basex.test.query.func.FNDbTest dbList
+org.basex.test.query.func.FNCryptoTest validateSignatureWithCanonicalization
+org.basex.test.server.LocalSessionTest query2
+org.basex.test.query.up.FastReplaceTest replaceAttributes
+org.basex.test.build.CreateTest createDB
+org.basex.test.query.IndexOptimizeTest functionTest
+org.basex.test.server.ClientSessionTest commandError
+org.basex.test.query.func.FNFtTest ftMark
+org.basex.test.server.LocalSessionTest addNameErr
+org.basex.test.query.up.FastReplaceTest replaceAttributes2
+org.basex.test.server.ServerCommandTest store
+org.basex.test.server.LocalSessionOutTest storeInvalid
+org.basex.test.query.func.FNFileTest fileSize
+org.basex.test.query.expr.MapTest mapAsKeyTest
+org.basex.test.server.CommandTest replace
+org.basex.test.data.IdPreMapTest insertDeleteCorrectness
+org.basex.test.query.ast.FuncItemTest partAppTest
+org.basex.test.server.LocalSessionTest storeNoDB
+org.basex.test.query.func.FNDbTest dbStore
+org.basex.test.server.AdminStressTest createAndListEvents
+org.basex.test.server.ServerCommandTest delete
+org.basex.test.BaseXStandaloneTest verbose
+org.basex.test.query.up.FastReplaceTest replaceWithSmallerTree
+org.basex.test.query.func.FNDbTest dbText
+org.basex.test.BaseXClientTest query
+org.basex.test.data.IdPreMapBulkFixedTest delete15
+org.basex.test.build.AddDeleteTest createCorrupt
+org.basex.test.util.CompressTest test6
+org.basex.test.data.DiskTableTest insertMultiple
+org.basex.test.server.ClientSessionTest queryBind2
+org.basex.test.server.LocalSessionTest commandSerial1
+org.basex.test.server.LocalSessionTest queryNoMore
+org.basex.test.server.ClientSessionTest replaceNameErr
+org.basex.test.query.func.FNCryptoTest validateSignature1c
+org.basex.test.server.ServerCommandTest infoIndex
+org.basex.test.server.ClientSessionTest queryBindDynamic
+org.basex.test.server.LocalSessionTest createNameErr
+org.basex.test.BaseXStandaloneTest command
+org.basex.test.query.up.UpdateTest textMerging10
+org.basex.test.server.ClientSessionOutTest commandError
+org.basex.test.server.LocalSessionTest createErr
+org.basex.test.io.BufferInputTest read1
+org.basex.test.server.ServerCommandTest xquery
+org.basex.test.query.simple.XPathMarkFTTest test
+org.basex.test.query.up.UpdateTest replaceValueOfEmptyRoot
+org.basex.test.data.IdPreMapBulkFixedTest delete8
+org.basex.test.server.ServerCommandTest info
+org.basex.test.query.IndexOptimizeTest openCollTest
+org.basex.test.data.DiskDataTest deleteNode
+org.basex.test.query.simple.SimpleTest test
+org.basex.test.server.CommandTest dropIndex
+org.basex.test.data.IdPreMapTest deletePerformance
+org.basex.test.query.up.UpdateTest optimize
+org.basex.test.query.func.FNFileTest fileReadText
+org.basex.test.data.IdPreMapTest insertPerformanceDummy
+org.basex.test.query.func.FNDbTest dbAddWithNS
+org.basex.test.query.func.FNZipTest zipZip
+org.basex.test.query.func.FNFileTest fileWriteBinary
+org.basex.test.util.BitArrayTest getTrimmedWords
+org.basex.test.query.expr.FLWORTest shadowTest
+org.basex.test.server.LocalSessionTest commandErr
+org.basex.test.query.NamespaceTest emptyDefaultNamespace
+org.basex.test.server.ClientSessionOutTest queryError2
+org.basex.test.build.AddDeleteTest addFileFail
+org.basex.test.query.NamespaceTest insertD3intoD1
+org.basex.test.BaseXClientTest verbose
+org.basex.test.query.func.FNDbTest dbOptimize
+org.basex.test.server.ServerCommandTest listdb
+org.basex.test.query.expr.PackageAPITest notInstalledMinMax
+org.basex.test.server.LocalSessionTest query
+org.basex.test.query.expr.HigherOrderTest foldRightTest
+org.basex.test.data.DiskDataTest findNonexistingNode
+org.basex.test.server.LocalSessionTest queryBinary
+org.basex.test.query.func.FNGenTest fnUnparsedText
+org.basex.test.query.up.FastReplaceTest replaceSingleWithSmallerTree
+org.basex.test.server.ClientSessionOutTest queryBind
+org.basex.test.data.IdPreMapBulkFixedTest delete7
+org.basex.test.query.NamespaceTest insertD4intoD1
+org.basex.test.server.ClientSessionTest command
+org.basex.test.BaseXClientTest command
+org.basex.test.query.expr.ModuleTest duplImportDiffUri
+org.basex.test.server.LocalSessionOutTest commandError
+org.basex.test.server.ServerCommandTest dropUser
+org.basex.test.query.expr.PackageAPITest repoInstall
+org.basex.test.server.ServerCommandTest set
+org.basex.test.server.LocalSessionOutTest queryInfo
+org.basex.test.query.func.FNFileTest fileCopy
+org.basex.test.query.func.FNFtTest ftSearch
+org.basex.test.server.ClientSessionTest add
+org.basex.test.query.expr.PackageAPITest mandatoryAttr
+org.basex.test.server.ClientSessionOutTest commandSerial2
+org.basex.test.query.expr.PackageAPITest delete
+org.basex.test.query.func.FNCryptoTest hmacMD5hex
+org.basex.test.server.ServerCommandTest help
+org.basex.test.server.ClientSessionOutTest store
+org.basex.test.query.func.FNMapTest mapRemove
+org.basex.test.query.func.FNCryptoTest validateSignatureWithDigestAlgorithm3
+org.basex.test.data.StoreTest replace
+org.basex.test.server.PoolTest createAndDrop
+org.basex.test.query.up.UpdateTest textMerging06
+org.basex.test.server.ClientSessionOutTest replaceNoInput
+org.basex.test.server.ClientSessionOutTest retrieveEmpty
+org.basex.test.data.MemDataTest insertNode
+org.basex.test.query.expr.PackageAPITest notInstalledDepTemp
+org.basex.test.server.LocalSessionTest queryParallel
+org.basex.test.query.expr.PackageAPITest notInstalledMax
+org.basex.test.query.func.FNFtTest ftCount
+org.basex.test.server.ServerCommandTest createUser
+org.basex.test.server.PoolTest closeAndOpen
+org.basex.test.build.CreateTest createDBandAddToName
+org.basex.test.server.LocalSessionTest addNoInput
+org.basex.test.query.func.FNDbTest dbDetails
+org.basex.test.server.ClientSessionOutTest storeNoDB
+org.basex.test.server.ClientSessionOutTest queryNullBinary
+org.basex.test.query.ast.FlworOptimizeTest moveMidTest
+org.basex.test.query.func.FNDbTest dbInfo
+org.basex.test.query.func.FNFileTest fileWrite
+org.basex.test.server.ClientSessionOutTest queryInit
+org.basex.test.query.NamespaceTest copy1
+org.basex.test.query.expr.PackageAPITest installJar
+org.basex.test.build.CSVTest one
+org.basex.test.data.IdPreMapBulkTest bulkInsertDeleteCorrectness
+org.basex.test.query.NamespaceTest deleteShiftPreValues3
+org.basex.test.query.up.UpdateTest textMerging09
+org.basex.test.server.ClientSessionOutTest addNameErr
+org.basex.test.server.LocalSessionOutTest queryNoMore
+org.basex.test.query.IndexOptimizeTest docTest
+org.basex.test.query.NamespaceTest insertIntoShiftPreValues2
+org.basex.test.server.LocalSessionTest queryBind
+org.basex.test.data.MemDataTest replaceNode
+org.basex.test.server.ClientSessionOutTest queryError
+org.basex.test.util.WesternTokenizerTest cI
+org.basex.test.server.ClientSessionTest addNameErr
+org.basex.test.query.IndexOptimizeTest openDocTest
+org.basex.test.util.WesternTokenizerTest cS
+org.basex.test.data.IdPreMapBulkFixedTest delete13
+org.basex.test.BaseXStandaloneTest input
+org.basex.test.query.NamespaceTest insertTransformX
+org.basex.test.query.func.FNDbTest dbContentType
+org.basex.test.server.LocalSessionOutTest queryClose
+org.basex.test.query.IndexOptimizeTest dbOpenExtTest
+org.basex.test.server.ClientSessionTest queryNullBinary
+org.basex.test.build.AddDeleteTest addFoldersDeleteFiles
+org.basex.test.query.func.FNMapTest mapKeys
+org.basex.test.server.ClientSessionOutTest queryBindURI
+org.basex.test.server.ServerCommandTest showUsers
+org.basex.test.data.DiskTableTest insertAtBlockBoundary
+org.basex.test.io.GlobTest test
+org.basex.test.server.LocalSessionTest queryInit
+org.basex.test.build.AddDeleteTest deletePath
+org.basex.test.server.ServerCommandTest dropDB
+org.basex.test.query.ast.FlworOptimizeTest dontMoveTest
+org.basex.test.server.LocalSessionOutTest query2
+org.basex.test.server.ClientSessionOutTest storeInvalid
+org.basex.test.query.func.FNUtilTest utilUuid
+org.basex.test.server.LocalSessionTest store
+org.basex.test.server.ClientSessionTest query2
+org.basex.test.query.func.FNUtilTest utilRun
+org.basex.test.build.PathTest withoutIndexTest
+org.basex.test.server.LocalSessionOutTest queryNullBinary
+org.basex.test.server.ClientSessionOutTest createErr
+org.basex.test.server.ClientSessionTest storeBinary
+org.basex.test.server.CommandTest grant
+org.basex.test.query.func.FNCryptoTest hmacSHA1base64
+org.basex.test.query.ast.TCOTest evenOddTest
+org.basex.test.util.WesternTokenizerTest wildCardsDiaCS
+org.basex.test.server.ServerCommandTest password
+org.basex.test.data.DiskTableTest deleteAtBeginning
+org.basex.test.query.up.UpdateTest emptyInsert1
+org.basex.test.data.DiskDataTest replaceValue
+org.basex.test.query.func.FNCryptoTest hmacSHA1hex
+org.basex.test.query.func.FNCryptoTest encryption1
+org.basex.test.server.LocalSessionOutTest commandSerial1
+org.basex.test.query.NamespaceTest insertIntoShiftPreValues
+org.basex.test.query.func.FNUtilTest utilToString
+org.basex.test.query.simple.DocTest test
+org.basex.test.query.expr.PackageAPITest alreadyAnotherSame
+org.basex.test.query.func.FNCryptoTest validateSignatureWithSignatureNamespace3
+org.basex.test.data.IdPreMapTest insertPerformance
+org.basex.test.data.DiskDataTest insertNode
+org.basex.test.query.func.FNUtilTest utilToBase
+org.basex.test.server.ClientSessionTest commandSerial2
+org.basex.test.server.LocalSessionOutTest queryInit
+org.basex.test.data.IdPreMapBulkFixedTest delete1
+org.basex.test.util.WesternTokenizerTest wildCardsCI
+org.basex.test.server.LocalSessionOutTest command
+org.basex.test.server.ClientSessionTest commandErr
+org.basex.test.query.func.FNFormatNumTest test
+org.basex.test.server.CommandTest open
+org.basex.test.data.MemDataTest deleteNode
+org.basex.test.server.CommandTest run
+org.basex.test.build.AddDeleteTest addCorrupt
+org.basex.test.server.LocalSessionTest storeInvalid
+org.basex.test.data.DiskTableTest deleteSecondBlockAndSurroundingNodes
+org.basex.test.query.func.FNDbTest dbReplace
+org.basex.test.server.ClientSessionOutTest queryParallel2
+org.basex.test.query.func.FNMapTest mapSize
+org.basex.test.server.LocalSessionOutTest queryBinary
+org.basex.test.BaseXStandaloneTest queryFile
+org.basex.test.server.LocalSessionOutTest query
+org.basex.test.server.PermissionTest adminPermsNeeded
+org.basex.test.server.LocalSessionOutTest queryParallel
+org.basex.test.server.CommandTest export
+org.basex.test.server.LocalSessionOutTest replace
+org.basex.test.server.LocalSessionOutTest queryBind2
+org.basex.test.query.up.UpdateTest textMerging04
+org.basex.test.server.LocalSessionOutTest queryMore
+org.basex.test.query.NamespaceTest queryPathOpt
+org.basex.test.server.ClientSessionTest queryNoResult
+org.basex.test.query.NamespaceTest copy4
+org.basex.test.server.LocalSessionTest replaceNoInput
+org.basex.test.build.AddDeleteTest skipCorrupt
+org.basex.test.server.ClientSessionOutTest querySerial1
+org.basex.test.server.ClientSessionTest storeInvalid
+org.basex.test.data.IdPreMapBulkFixedTest delete21
+org.basex.test.data.IdPreMapBulkFixedTest delete16
+org.basex.test.query.func.FNCryptoTest validateSignatureWithSignatureAlgorithm2
+org.basex.test.server.ClientSessionTest queryParallel2
+org.basex.test.query.func.FNCryptoTest checkDefaultArguments
+org.basex.test.query.func.FNFileTest fileCreateDirectory
+org.basex.test.BaseXClientTest input
+org.basex.test.query.func.FNZipTest entries
+org.basex.test.BaseXStandaloneTest queryErr
+org.basex.test.server.CommandTest createIndex
+org.basex.test.server.ServerCommandTest get
+org.basex.test.server.CommandTest flush
+org.basex.test.server.LocalSessionTest commandSerial2
+org.basex.test.server.ServerCommandTest restore
+org.basex.test.query.func.FNDbTest dbOpenPre
+org.basex.test.server.CommandTest cs
+org.basex.test.server.LocalSessionTest queryEmptyString
+org.basex.test.server.ClientSessionTest store
+org.basex.test.query.expr.PackageAPITest valid
+org.basex.test.query.ast.TCOTest tightLoopTest
+org.basex.test.query.expr.PackageAPITest repoInit
+org.basex.test.server.LocalSessionOutTest queryError3
+org.basex.test.data.DiskTableTest size
+org.basex.test.server.ClientSessionTest queryInit
+org.basex.test.query.NamespaceTest deleteShiftPreValues4
+org.basex.test.server.CommandTest password
+org.basex.test.server.LocalSessionTest replaceNameErr
+org.basex.test.server.ServerCommandTest find
+org.basex.test.query.func.FNCryptoTest validateSignatureWithCanonicalization2
+org.basex.test.data.IdPreMapBulkFixedTest delete11
+org.basex.test.query.func.FNCryptoTest validateSignatureWithSignatureAlgorithm
+org.basex.test.server.PermissionTest readPermsNeeded
+org.basex.test.BaseXStandaloneTest serial
+org.basex.test.util.FTBitapSearchTest searchIter
+org.basex.test.server.CommandTest close
+org.basex.test.query.simple.FTTest test
+org.basex.test.server.LocalSessionOutTest createErr
+org.basex.test.data.IdPreMapTest insertCorrectness
+org.basex.test.query.func.FNDbTest dbExists
+org.basex.test.query.expr.PackageAPITest alreadyInstalled
+org.basex.test.data.IdPreMapTest searchPerformance
+org.basex.test.data.IdPreMapBulkFixedTest delete10
+org.basex.test.server.CommandTest createBackup
+org.basex.test.io.BufferInputTest read65535
+org.basex.test.query.func.FNCryptoTest validateSignatureWithDigestAlgorithm
+org.basex.test.server.CommandTest list
+org.basex.test.server.LocalSessionOutTest queryNoResult
+org.basex.test.server.CommandTest alterDB
+org.basex.test.server.CommandTest createDB
+org.basex.test.data.IdPreMapBulkFixedTest delete4
+org.basex.test.query.expr.HigherOrderTest xsNCNameTest
+org.basex.test.server.ClientSessionTest replace
+org.basex.test.server.LocalSessionTest commandError
+org.basex.test.data.IdPreMapBulkFixedTest delete18
+org.basex.test.server.LocalSessionTest create
+org.basex.test.query.func.FNFileTest fileDirName
+org.basex.test.server.ServerCommandTest alterDB
+org.basex.test.BaseXStandaloneTest runs
+org.basex.test.io.IOTest urlToFile
+org.basex.test.util.WesternTokenizerTest wildCardsUC
+org.basex.test.server.ServerCommandTest infoDB
+org.basex.test.query.up.UpdateTest emptyInsert3
+org.basex.test.query.func.FNZipTest xmlEntry
+org.basex.test.server.ServerCommandTest createBackup
+org.basex.test.query.up.FastReplaceTest replaceSingleWithBiggerTree
+org.basex.test.query.simple.XQuery30Test test
+org.basex.test.query.expr.HigherOrderTest shadowingTest
+org.basex.test.query.func.FNFileTest fileResolvePath
+org.basex.test.server.ServerCommandTest createDB
+org.basex.test.query.ast.FuncItemTest literalTest
+org.basex.test.server.EventTest concurrent
+org.basex.test.BaseXClientTest chop
+org.basex.test.query.func.FNDbTest dbIsRaw
+org.basex.test.server.LocalSessionOutTest queryParallel2
+org.basex.test.server.EventTest createDrop
+org.basex.test.query.up.UpdateTest textMerging03
+org.basex.test.data.MemDataTest insertDuplicateNode
+org.basex.test.BaseXClientTest portErr2
+org.basex.test.data.IdPreMapBulkFixedTest delete3
+org.basex.test.query.NamespaceTest insertD4intoD5
+org.basex.test.server.LocalSessionTest queryError3
+org.basex.test.query.NamespaceTest copy3
+org.basex.test.query.func.FNDbTest dbRetrieve
+org.basex.test.server.LocalSessionOutTest queryEmptyString
+org.basex.test.server.ClientSessionOutTest queryInfo
+org.basex.test.query.ast.FlworOptimizeTest moveForTest
+org.basex.test.query.NamespaceTest uriStack
+org.basex.test.server.CommandTest restore
+org.basex.test.server.ServerCommandTest flush
+org.basex.test.server.CommandTest get
+org.basex.test.data.DiskTableTest deleteSecondBlock
+org.basex.test.server.LocalSessionOutTest queryBindInt
+org.basex.test.server.ClientSessionTest query
+org.basex.test.server.ClientSessionTest queryClose
+org.basex.test.BaseXClientTest queryErr
+org.basex.test.server.CommandTest delete
+org.basex.test.server.ClientSessionTest queryParallel
+org.basex.test.server.LocalSessionOutTest storeBinary
+org.basex.test.BaseXClientTest runErr
+org.basex.test.query.func.FNCryptoTest hmacSHA512base64
+org.basex.test.util.WesternTokenizerTest uC
+org.basex.test.build.CreateTest createDBWithInput
+org.basex.test.query.func.FNCryptoTest validateSignatureFullySpecified
+org.basex.test.query.func.FNJsonTest jsonSerialize
+org.basex.test.server.ServerCommandTest rename
+org.basex.test.data.IdPreMapBulkFixedTest delete14
+org.basex.test.data.StoreTest deleteInsert
+org.basex.test.query.func.FNXsltTest xsltVersion
+org.basex.test.query.func.FNFileTest fileIsDirectory
+org.basex.test.server.LocalSessionTest queryNoResult
+org.basex.test.build.PathTest documentTestInput
+org.basex.test.util.CompressTest test1
+org.basex.test.server.LocalSessionOutTest querySerial1
+org.basex.test.server.CommandTest showUsers
+org.basex.test.query.func.FNCryptoTest validateSignature1b
+org.basex.test.query.func.FNMapTest mapGet
+org.basex.test.query.NamespaceTest delete1
+org.basex.test.server.ClientSessionTest queryBinary
+org.basex.test.server.ClientSessionOutTest queryParallel
+org.basex.test.server.ClientSessionTest createNameErr
+org.basex.test.util.WesternTokenizerTest diaCI
+org.basex.test.query.up.UpdateTest textMerging11
+org.basex.test.server.ClientSessionTest queryBind
+org.basex.test.query.NamespaceTest superfluousPrefixDeclaration
+org.basex.test.server.ClientSessionTest queryError
+org.basex.test.server.ServerCommandTest run
+org.basex.test.server.ClientSessionOutTest queryMore
+org.basex.test.query.func.FNDbTest dbNodeID
+org.basex.test.BaseXStandaloneTest query
+org.basex.test.server.ServerCommandTest grant
+org.basex.test.query.up.UpdateTest replaceLastNode
+org.basex.test.util.WesternTokenizerTest wildCardsCS
+org.basex.test.query.func.FNCryptoTest validateSignatureWithCanonicalization4
+org.basex.test.query.func.FNUtilTest utilMS
+org.basex.test.query.func.FNMapTest mapEntry
+org.basex.test.query.func.FNCryptoTest hmacSHA384hex
+org.basex.test.data.IdPreMapBulkFixedTest delete19
+org.basex.test.query.func.FNFileTest fileIsFile
+org.basex.test.server.ClientSessionTest querySerial1
+org.basex.test.util.CompressTest test8
+org.basex.test.server.ClientSessionTest storeNoDB
+org.basex.test.query.func.FNCryptoTest encryption2
+org.basex.test.server.ClientSessionTest queryError2
+org.basex.test.BaseXStandaloneTest bind
+org.basex.test.query.func.FNFtTest ftScore
+org.basex.test.query.ast.FuncItemTest yCombinatorTest
+org.basex.test.server.LocalSessionTest queryBindJson
+org.basex.test.data.IdPreMapBulkFixedTest insert3
+org.basex.test.query.func.FNZipTest zipFileNS
+org.basex.test.query.func.FNFileTest filePathToNative
+org.basex.test.server.LocalSessionTest queryBindDynamic
+org.basex.test.BaseXClientTest port
+org.basex.test.query.ast.FuncItemTest partApp2Test
+org.basex.test.server.ServerCommandTest optimize
+org.basex.test.build.CollectionPathTest baseUri
+org.basex.test.data.IdPreMapBulkFixedTest delete6
+org.basex.test.server.ClientSessionOutTest queryBindJson
+org.basex.test.build.CreateTest createDBandAddToTargetName
+org.basex.test.server.ClientSessionOutTest queryClose
+org.basex.test.util.WesternTokenizerTest wildCardsDiaUC
+org.basex.test.server.ClientSessionOutTest commandSerial1
+org.basex.test.server.CommandTest store
+org.basex.test.data.DiskDataTest replaceNode
+org.basex.test.query.func.FNDbTest dbAttribute
+org.basex.test.util.WesternTokenizerTest wildCardsDiaCI
+org.basex.test.server.LocalSessionOutTest storeNoDB
+org.basex.test.query.func.FNCryptoTest validateSignature1
+org.basex.test.build.PathTest documentTestWeek
+org.basex.test.server.ClientSessionOutTest queryError3
+org.basex.test.query.NamespaceTest insertTransform1
+org.basex.test.data.DiskTableTest deleteLastBlock
+org.basex.test.server.PermissionTest noPermsNeeded
+org.basex.test.query.func.FNCryptoTest validateSignatureWithDigestAlgorithm2
+org.basex.test.server.ClientSessionTest queryBindURI
+org.basex.test.query.up.UpdateTest textMerging01
+org.basex.test.query.func.FNUtilTest utilHashing
+org.basex.test.data.DiskTableTest simpleInsert
+org.basex.test.query.func.FNJsonTest jsonParse
+org.basex.test.build.CollectionPathTest findDocs
+org.basex.test.util.WesternTokenizerTest wildCardsDiaLC
+org.basex.test.query.up.FastReplaceTest replaceEqualBlocks2
+org.basex.test.server.LocalSessionOutTest retrieveBinary
+org.basex.test.server.LocalSessionOutTest queryError
+org.basex.test.query.expr.ModuleTest duplImport
+org.basex.test.server.ClientSessionOutTest createNameErr
+org.basex.test.server.LocalSessionTest queryParallel2
+org.basex.test.query.func.FNCryptoTest validateSignatureWithSignatureType
+org.basex.test.server.CommandTest infoDB
+org.basex.test.util.BitArrayTest getInt
+org.basex.test.query.func.FNCryptoTest hmacMD5base64
+org.basex.test.query.up.UpdateTest textMerging08
+org.basex.test.data.StoreTest deleteInsertTwo
+org.basex.test.server.CommandTest createUser
+org.basex.test.query.NamespaceTest insertIntoShiftPreValues3
+org.basex.test.query.func.FNXsltTest xsltProcessor
+org.basex.test.server.LocalSessionTest queryMore
+org.basex.test.query.simple.XQUPTest test
+org.basex.test.server.LocalSessionTest querySerial2
+org.basex.test.data.IdPreMapBulkFixedTest delete12
+org.basex.test.query.expr.PackageAPITest alreadyAnotherInstalled
+org.basex.test.query.VersionTest compatible
+org.basex.test.server.ServerCommandTest kill
+org.basex.test.BaseXClientTest bindErr
+org.basex.test.query.func.FNUtilTest utilFromBase
+org.basex.test.util.CompressTest test7
+org.basex.test.server.CommandTest optimize
+org.basex.test.build.CreateTest createDBandAdd
+org.basex.test.server.CommandTest help
+org.basex.test.query.func.FNFileTest filePathToURI
+org.basex.test.query.NamespaceTest bogusDetector
+org.basex.test.server.ClientSessionTest queryEmptyBinary
+org.basex.test.server.ClientSessionTest queryBindInt
+org.basex.test.build.AddDeleteTest addFolder
+org.basex.test.query.func.FNZipTest textEntry
+org.basex.test.server.ClientSessionOutTest addNoInput
+org.basex.test.util.CompressTest test3
+org.basex.test.util.UTF8Test token2string
+org.basex.test.server.LocalSessionTest command
+org.basex.test.server.CommandTest dropUser
+org.basex.test.query.up.UpdateTest treeAwareUpdates
+org.basex.test.server.LocalSessionTest add
+org.basex.test.server.LocalSessionOutTest add
+org.basex.test.data.IdPreMapBulkFixedTest delete9
+org.basex.test.server.ServerCommandTest close
+org.basex.test.query.VersionTest interval
+org.basex.test.data.IdPreMapBulkTest bulkDeleteCorrectness
+org.basex.test.server.ClientSessionOutTest queryBindInt
+org.basex.test.server.ClientSessionTest queryEmptyString
+org.basex.test.io.BufferInputTest read4095
+org.basex.test.query.func.FNCryptoTest validateSignatureWithXPath
+org.basex.test.BaseXClientTest portErr
+org.basex.test.server.ServerCommandTest cs
+org.basex.test.query.expr.HigherOrderTest emptyFunTest
+org.basex.test.query.expr.HigherOrderTest placeHolderTest
+org.basex.test.query.func.FNMapTest mapNew
+org.basex.test.server.ServerCommandTest createIndex
+org.basex.test.query.ast.FlworOptimizeTest moveTopTest
+org.basex.test.server.ClientSessionTest queryNoMore
+org.basex.test.query.NamespaceTest duplicateDefaultNamespace
+org.basex.test.query.expr.PackageAPITest notInstalledDepVersion
+org.basex.test.build.AddDeleteTest addZip
+org.basex.test.data.IdPreMapBulkFixedTest insert1
+org.basex.test.query.func.FNCryptoTest hmacSHA512hex
+org.basex.test.query.func.FNCryptoTest hmacSHA256hex
+org.basex.test.query.simple.TypeTest test
+org.basex.test.server.ClientSessionTest create
+org.basex.test.query.func.FNFileTest fileReadBinary
+org.basex.test.build.AddDeleteTest addGzip
+org.basex.test.server.ClientSessionOutTest queryNoResult
+org.basex.test.query.func.FNMapTest mapCollation
+org.basex.test.server.LocalSessionOutTest retrieveEmpty
+org.basex.test.server.ClientSessionOutTest queryBindDynamic
+org.basex.test.query.func.FNDbTest dbIsXML
+org.basex.test.query.func.FNFileTest fileMove
+org.basex.test.BaseXClientTest commandErr
+org.basex.test.server.CommandTest info
+org.basex.test.query.func.FNNotTest test
+org.basex.test.server.LocalSessionOutTest store
+org.basex.test.server.LocalSessionOutTest queryEmptyBinary
+org.basex.test.query.NamespaceTest insertD7intoD1
+org.basex.test.query.func.FNUtilTest utilMB
+org.basex.test.query.func.FNFileTest fileBaseName
+org.basex.test.query.FTWildcardTest testParse
+org.basex.test.query.func.FNCryptoTest hmacSHA384base64
+org.basex.test.util.BitArrayTest setInt
+org.basex.test.query.expr.HigherOrderTest typeTest
+org.basex.test.query.NamespaceTest insertD3intoD1b
+org.basex.test.build.PathTest withIndexTest
+org.basex.test.server.LocalSessionTest retrieveEmpty
+org.basex.test.server.LocalSessionTest replace
+org.basex.test.BaseXStandaloneTest serialErr
+org.basex.test.query.ast.TCOTest fastPowTest
+org.basex.test.query.expr.HigherOrderTest curryTest2
+org.basex.test.server.ClientSessionOutTest replaceNameErr
+org.basex.test.server.ClientSessionOutTest commandErr
+org.basex.test.query.NamespaceTest deleteDocumentNode
+org.basex.test.server.PermissionTest writePermsNeeded
+org.basex.test.query.up.UpdateTest textMerging07
+org.basex.test.server.LocalSessionTest queryBind2
+org.basex.test.server.ServerCommandTest open
+org.basex.test.data.MemDataTest replaceValue
+org.basex.test.data.DiskTableTest insertMany
+org.basex.test.server.AdminStressTest createAndListSessions
+org.basex.test.server.LocalSessionTest queryInfo
+org.basex.test.server.CommandTest listdb
+org.basex.test.server.CommandTest find
+org.basex.test.server.ClientSessionOutTest queryEmptyString
+org.basex.test.query.NamespaceTest nsHierarchy
+org.basex.test.query.func.FNCryptoTest checkFunctionArguments
+org.basex.test.data.IdPreMapBulkFixedTest delete22
+org.basex.test.data.IdPreMapBulkTest bulkInsertCorrectness
+org.basex.test.query.ast.FuncItemTest idTest
+org.basex.test.util.CompressTest test2
+org.basex.test.server.LocalSessionOutTest querySerial2
+org.basex.test.server.ClientSessionTest queryBindJson
+org.basex.test.util.WesternTokenizerTest lC
+org.basex.test.query.func.FNDbTest dbEvent
+org.basex.test.query.func.FNUtilTest utilCRC32
+org.basex.test.query.func.FuncTest test
+org.basex.test.build.CSVTest sep
+org.basex.test.query.IndexOptimizeTest ftTest
+org.basex.test.query.func.FNDbTest dbAdd
+org.basex.test.query.func.FNGenTest fnSerialize
+org.basex.test.server.LocalSessionOutTest commandErr
+org.basex.test.query.NamespaceTest deleteShiftPreValues2
+org.basex.test.server.ClientSessionOutTest storeBinary
+org.basex.test.server.ClientSessionTest retrieveEmpty
+org.basex.test.server.LocalSessionOutTest queryBindURI
+org.basex.test.data.IdPreMapTest deleteCorrectness
+org.basex.test.server.LocalSessionTest queryEmptyBinary
+org.basex.test.build.CollectionPathTest findDoc
+org.basex.test.server.LocalSessionTest queryClose
+org.basex.test.query.VersionTest compatSmaller
+org.basex.test.query.NamespaceTest nsHierarchy2
+org.basex.test.query.VersionTest compatGreater
+org.basex.test.server.LocalSessionOutTest queryBindDynamic
+org.basex.test.query.func.FNFileTest fileList
+org.basex.test.query.expr.PackageAPITest importPkg
+org.basex.test.data.DiskTableTest deleteOneNode
+org.basex.test.query.func.FNFileTest fileAppend
+org.basex.test.server.LocalSessionOutTest queryBind
+org.basex.test.server.PermissionTest dropUsers
+org.basex.test.server.ClientSessionTest querySerial2
+org.basex.test.server.ClientSessionOutTest retrieveBinary
+org.basex.test.util.CompressTest test5
+org.basex.test.server.LocalSessionTest queryNullBinary
+org.basex.test.server.CommandTest dropDB
+org.basex.test.query.func.FNFileTest fileExists
+org.basex.test.query.expr.HigherOrderTest curryTest
+org.basex.test.build.CreateTest createDBandAddToTarget
+org.basex.test.query.up.FastReplaceTest replaceWithBiggerTree
+org.basex.test.server.CommandTest add
+org.basex.test.query.func.FNFtTest ftExtract
+org.basex.test.util.BitArrayTest clearInt
+org.basex.test.BaseXClientTest queryFile
+org.basex.test.query.func.FNFileTest fileAppendBinary
+org.basex.test.server.ClientSessionOutTest query2
+org.basex.test.data.IdPreMapBulkTest bulkDeleteCorrectness2
+org.basex.test.BaseXStandaloneTest noSerialization
+org.basex.test.query.NamespaceTest deleteShiftPreValues
+org.basex.test.server.ClientSessionOutTest query
+org.basex.test.data.IdPreMapTest deletePerformanceDummy
+org.basex.test.data.IdPreMapTest searchPerformanceDummy
+org.basex.test.query.func.FNGenTest fnParseXML
+org.basex.test.server.ServerCommandTest list
+org.basex.test.server.ClientSessionTest addNoInput
+org.basex.test.query.up.UpdateTest deleteLastNode
+org.basex.test.build.CSVTest empty
+org.basex.test.server.EventTest watchUnwatch
+org.basex.test.util.UTF8Test entities
+org.basex.test.query.func.FNFileTest fileLastModified
+org.basex.test.BaseXClientTest serialErr
+org.basex.test.query.up.UpdateTest textMerging02
+org.basex.test.util.WesternTokenizerTest wildCardsLC
+org.basex.test.server.SemaphoreTest runClients
+org.basex.test.data.IdPreMapBulkFixedTest delete2
+org.basex.test.server.LocalSessionTest queryError2
+org.basex.test.query.NamespaceTest insertD6intoD4
+org.basex.test.query.NamespaceTest copy2
+org.basex.test.BaseXClientTest user
+org.basex.test.server.ClientSessionOutTest querySerial2
+org.basex.test.query.func.FNFileTest fileDelete
+org.basex.test.query.func.FNDbTest dbFulltext
+org.basex.test.server.ServerCommandTest infoTable
+org.basex.test.data.TableTest tableSize

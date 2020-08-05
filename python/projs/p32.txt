@@ -1,0 +1,10 @@
+/Netflix/astyanax
+/opentripplanner/OpenTripPlanner
+/Netflix/archaius
+/jayway/rest-assured
+/dodola/MetaballLoading
+/quartzjer/TeleHash
+/rudsonlive/NavigationDrawer-MaterialDesign
+/Netflix/servo
+/gowong/material-sheet-fab
+/mattdesl/lwjgl-basics

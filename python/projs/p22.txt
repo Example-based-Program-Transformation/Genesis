@@ -1,0 +1,10 @@
+/neokree/MaterialTabs
+/brianfrankcooper/YCSB
+/purplecabbage/phonegap-plugins
+/airbnb/AirMapView
+/twitter/commons
+/jOOQ/jOOQ
+/mongodb/mongo-hadoop
+/mxn21/FlowingDrawer
+/spring-projects/spring-loaded
+/jphp-compiler/jphp

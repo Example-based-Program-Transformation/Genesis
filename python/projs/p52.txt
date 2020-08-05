@@ -1,0 +1,10 @@
+/DreaminginCodeZH/MaterialProgressBar
+/liuling07/SimpleNews
+/zhaoqp2010/andbase
+/jline/jline2
+/florent37/MaterialLeanBack
+/AChep/Header2ActionBar
+/nathanmarz/elephantdb
+/delight-im/Faceless
+/android-cjj/BeautifulRefreshLayout
+/facebook/swift

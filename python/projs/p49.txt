@@ -1,0 +1,10 @@
+/apache/flume
+/DozerMapper/dozer
+/Rano1/TopNews
+/jenkinsci/workflow-plugin
+/msgpack/msgpack-java
+/nshmura/RecyclerTabLayout
+/timmolter/XChange
+/FaizMalkani/Fabulous
+/trifork/erjang
+/wiztools/rest-client

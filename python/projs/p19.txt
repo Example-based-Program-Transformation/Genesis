@@ -1,0 +1,10 @@
+/MinecraftForge/MinecraftForge
+/tinkerpop/blueprints
+/naver/pinpoint
+/TonicArtos/SuperSLiM
+/jprante/elasticsearch-jdbc
+/eishay/jvm-serializers
+/TonicArtos/StickyGridHeaders
+/ninjaframework/ninja
+/oblac/jodd
+/zzz40500/GsonFormat

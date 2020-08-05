@@ -1,0 +1,10 @@
+/florent37/MaterialImageLoading
+/objectify/objectify
+/ddf/Minim
+/AndroidDeveloperLB/AutoFitTextView
+/DataSketches/sketches-core
+/ysc/word
+/yogthos/clj-pdf
+/rhuss/jolokia
+/JSQLParser/JSqlParser
+/jprante/elasticsearch-knapsack

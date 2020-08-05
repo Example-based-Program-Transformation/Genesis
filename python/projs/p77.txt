@@ -1,0 +1,10 @@
+/WuXiaolong/WeWin
+/sk89q/WorldGuard
+/freemarker/freemarker-old
+/spring-projects/spring-xd
+/OpenHFT/Chronicle-Map
+/hekailiang/squirrel
+/AxonFramework/AxonFramework
+/frakbot/CreditsRoll
+/pentaho/mondrian
+/bennidi/mbassador

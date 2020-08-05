@@ -1,0 +1,10 @@
+/apache/nutch
+/dynjs/dynjs
+/impetus-opensource/Kundera
+/twitter/hbc
+/Netflix/Priam
+/mpetazzoni/ttorrent
+/alibaba/zeus
+/tajchert/WaitingDots
+/premnirmal/Magnet
+/apache/hbase

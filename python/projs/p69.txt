@@ -1,0 +1,10 @@
+/spring-projects/spring-social-samples
+/prefuse/Prefuse
+/OAuth-Apis/apis
+/Parquet/parquet-format
+/fayder/restcountries
+/pmuellr/weinre
+/katzer/cordova-plugin-background-mode
+/lenskit/lenskit
+/apache/incubator-geode
+/SpigotMC/BungeeCord

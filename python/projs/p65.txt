@@ -1,0 +1,10 @@
+/mybatis/generator
+/w446108264/XhsWelcomeAnim
+/GoogleCloudPlatform/DataflowJavaSDK
+/rackerlabs/blueflood
+/apache/pig
+/apache/activemq
+/neuland/jade4j
+/iKrelve/KuaiHu
+/eclipse/egit-github
+/spring-projects/spring-data-neo4j

@@ -1,0 +1,10 @@
+/jindrapetrik/jpexs-decompiler
+/cometd/cometd
+/lguipeng/AnimCheckBox
+/JustinSDK/JavaSE6Tutorial
+/HiddenStage/divide
+/rejasupotaro/MaterialDesignSample
+/chariotsolutions/phonegap-nfc
+/paoding-code/paoding-rose
+/zhaozhentao/MaterialImageView
+/advantageous/qbit

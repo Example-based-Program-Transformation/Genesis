@@ -1,0 +1,10 @@
+/libgdx/ashley
+/yangxu4536/MeiTuanLocateCity
+/facebook/proguard
+/marytts/marytts
+/kingideayou/TagCloudView
+/pmerienne/trident-ml
+/Netflix/governator
+/4pr0n/ripme
+/konifar/material-cat
+/google/re2j

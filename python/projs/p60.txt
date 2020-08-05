@@ -1,0 +1,10 @@
+/elevenetc/DraggableView
+/qos-ch/slf4j
+/xingrz/GankMeizhi
+/apache/avro
+/truizlop/FABRevealLayout
+/boycy815/PinchImageView
+/ps3mediaserver/ps3mediaserver
+/spring-projects/spring-session
+/stagemonitor/stagemonitor
+/apache/commons-lang

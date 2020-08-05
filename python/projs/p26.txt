@@ -1,0 +1,10 @@
+/MiCode/Notes
+/ongakuer/CircleIndicator
+/dropbox/djinni
+/twitter/elephant-bird
+/rovo89/XposedBridge
+/spring-projects/spring-security
+/lsjwzh/RecyclerViewPager
+/alibaba/cobar
+/gitblit/gitblit
+/spockframework/spock

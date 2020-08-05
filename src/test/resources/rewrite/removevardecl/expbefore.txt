@@ -1,0 +1,10 @@
+public class Basic {
+
+    public Basic foo() { return this; }
+
+    public void test() {
+        Basic a = null;
+        a.foo().test();
+        return;
+    }
+}

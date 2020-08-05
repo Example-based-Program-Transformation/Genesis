@@ -1,0 +1,10 @@
+/addthis/stream-lib
+/pnikosis/materialish-progress
+/MovingBlocks/Terasology
+/Netflix/curator
+/naman14/Timber
+/gephi/gephi
+/chenupt/SpringIndicator
+/apache/lucene-solr
+/cloudera/oryx
+/aws/aws-sdk-java

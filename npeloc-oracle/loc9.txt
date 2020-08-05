@@ -1,0 +1,2 @@
+1
+src/main/java/com/puppycrawl/tools/checkstyle/checks/blocks/NeedBracesCheck.java 286 -1

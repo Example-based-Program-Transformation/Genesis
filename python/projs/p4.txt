@@ -1,0 +1,10 @@
+/perwendel/spark
+/OpenRefine/OpenRefine
+/thinkaurelius/titan
+/lucasr/twoway-view
+/realm/realm-java
+/amlcurran/ShowcaseView
+/xetorthio/jedis
+/chrisbanes/ActionBar-PullToRefresh
+/alibaba/dubbo
+/springside/springside4

@@ -1,0 +1,10 @@
+/tangqi92/BuildingBlocks
+/apache/hive
+/r0adkll/Slidr
+/sk89q/WorldEdit
+/hankcs/HanLP
+/HazyResearch/deepdive
+/google/mr4c
+/Gottox/socket.io-java-client
+/sahildave/Search-View-Layout
+/ben-manes/caffeine

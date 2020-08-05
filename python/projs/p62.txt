@@ -1,0 +1,10 @@
+/SammyIAm/Moppy
+/apache/maven
+/gwtbootstrap/gwt-bootstrap
+/brendano/ark-tweet-nlp
+/webbukkit/dynmap
+/im-qq/iqq
+/dangdangdotcom/elastic-job
+/mttkay/signpost
+/dustin/java-memcached-client
+/tyrantgit/HeartLayout

@@ -1,0 +1,10 @@
+/agirbal/umongo
+/pulsarIO/realtime-analytics
+/apache/drill
+/geoserver/geoserver
+/rampo/UpdateChecker
+/quiqueqs/BabushkaText
+/gwtproject/gwt
+/afollestad/drag-select-recyclerview
+/saulmm/Avengers
+/elastic/elasticsearch-cloud-aws

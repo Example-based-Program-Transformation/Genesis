@@ -1,0 +1,10 @@
+/mikepenz/AboutLibraries
+/commonsguy/cwac-camera
+/b3log/solo
+/socketio/socket.io-client-java
+/Yalantis/Taurus
+/saulmm/CoordinatorBehaviorExample
+/zeromq/jeromq
+/ratpack/ratpack
+/chenupt/DragTopLayout
+/tuesda/CircleRefreshLayout

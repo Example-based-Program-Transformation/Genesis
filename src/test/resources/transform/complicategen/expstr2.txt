@@ -1,0 +1,1 @@
+z += this.a.foo().bar();

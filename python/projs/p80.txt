@@ -1,0 +1,10 @@
+/recruit-lifestyle/ColoringLoading
+/square/burst
+/UniversalMediaServer/UniversalMediaServer
+/HotswapProjects/HotswapAgent
+/wandernauta/viskell
+/elevenetc/InteractiveCanvas
+/SeniorZhai/ScoreBoard
+/restx/restx
+/senseidb/zoie
+/larsgeorge/hbase-book

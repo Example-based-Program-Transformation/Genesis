@@ -1,0 +1,10 @@
+/lguipeng/Notes
+/OryxProject/oryx
+/ervandew/eclim
+/eclipse-color-theme/eclipse-color-theme
+/AdoptOpenJDK/jitwatch
+/Netflix/zuul
+/hector-client/hector
+/rnewson/couchdb-lucene
+/graphhopper/graphhopper
+/58code/Argo

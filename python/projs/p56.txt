@@ -1,0 +1,10 @@
+/spring-projects/spring-data-mongodb
+/sacot41/SCViewPager
+/methusalah/OpenRTS
+/VaughnVernon/IDDD_Samples
+/tyczj/ExtendedCalendarView
+/wedcel/DragExpandGrid
+/lingochamp/ShareLoginLib
+/encog/encog-java-core
+/zeromq/jzmq
+/apache/usergrid

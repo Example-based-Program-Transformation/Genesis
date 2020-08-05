@@ -1,0 +1,10 @@
+/flavienlaurent/discrollview
+/linkedin/rest.li
+/peter-lawrey/Java-Chronicle
+/JoanZapata/base-adapter-helper
+/chanjarster/weixin-java-tools
+/katzer/cordova-plugin-local-notifications
+/kikoso/Swipeable-Cards
+/daimajia/AnimeTaste
+/alibaba/canal
+/ether/pad

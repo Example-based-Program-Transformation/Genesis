@@ -1,0 +1,10 @@
+/spring-projects/eclipse-integration-gradle
+/jcodec/jcodec
+/hanks-zyh/500px-guideview
+/malmstein/fenster
+/cf-samples-attic/springsource-cloudfoundry-samples
+/jimwebber/neo4j-tutorial
+/oxoooo/materialize
+/allr/purdue-fastr
+/OfficeDev/ews-java-api
+/javalite/activejdbc

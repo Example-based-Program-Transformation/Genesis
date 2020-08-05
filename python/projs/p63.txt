@@ -1,0 +1,10 @@
+/eugenkiss/7guis
+/spring-projects/spring-data-elasticsearch
+/Pi4J/pi4j
+/laowch/GithubTrends
+/spring-projects/spring-integration
+/Haehnchen/idea-php-symfony2-plugin
+/LWJGL/lwjgl
+/eugenp/REST-With-Spring
+/jhipster/jhipster-sample-app
+/resteasy/Resteasy
